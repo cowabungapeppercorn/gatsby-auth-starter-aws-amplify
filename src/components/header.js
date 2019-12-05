@@ -44,7 +44,7 @@ const Header = ({ siteTitle }) => (
 
 const styles = {
   headerTitle: {
-    color: 'white',
+    color: 'green',
     textDecoration: 'none',
   },
   link: {
