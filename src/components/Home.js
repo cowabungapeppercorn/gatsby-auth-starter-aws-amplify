@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import { isLoggedIn } from '../utils/auth';
 
 const Home = () => <div>
   <h1>Home</h1>
