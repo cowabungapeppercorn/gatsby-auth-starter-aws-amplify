@@ -28,7 +28,7 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
-      {
+      {/* {
         isLoggedIn() && (
           <p
             onClick={
@@ -37,7 +37,7 @@ const Header = ({ siteTitle }) => (
             style={styles.link}
           >Sign Out</p>
         )
-      }
+      } */}
     </div>
   </div>
 )
