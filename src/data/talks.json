@@ -1,0 +1,2189 @@
+{
+  "talks": [
+    {
+      "presentation_id": "0538a2e0-ffc8-11e8-bd3b-bd3a843a991d",
+      "session": "Live Endoscopy 5",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T13:58:00.000",
+      "update": 1544809518,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T14:00:00.000",
+      "title": "Capsule Study",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "8429e410-fe65-11e8-a212-f755fc5c0c08",
+      "session": "Testing",
+      "client_id": null,
+      "track": "System",
+      "directory_code": null,
+      "time_start": "2018-12-12T18:45:00.000",
+      "update": 1544657260,
+      "faculty": [
+        {
+          "first_name": "Keeper",
+          "last_name": "House",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": true,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-12T19:00:00.000",
+      "title": "System Testing - Westside",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a877b640-f914-11e8-8a68-45e36006ecd9",
+      "session": "Welcome",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T07:25:00.000",
+      "update": 1544722863,
+      "faculty": [
+        {
+          "first_name": "Seth A.",
+          "last_name": "Gross",
+          "role": "Moderator"
+        },
+        {
+          "first_name": "Patrick I.",
+          "last_name": "Okolo III",
+          "role": "Moderator"
+        },
+        {
+          "first_name": "Tamas A.",
+          "last_name": "Gonda",
+          "role": "Moderator"
+        },
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T07:30:00.000",
+      "room": "Westside",
+      "title": "Introduction"
+    },
+    {
+      "presentation_id": "a87dd0c0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Edmund Bini, MD Lecture",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T07:30:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Lawrence J.",
+          "last_name": "Brandt",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Jean W.",
+          "last_name": "Saleh",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T07:45:00.000",
+      "title": "Performing a Rectal Exam: Why? How?",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8821680-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 1: Advances in Bariatrics",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T07:45:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Reem Z.",
+          "last_name": "Sharaiha",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Nikhil A.",
+          "last_name": "Kumta",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T08:00:00.000",
+      "title": "State of the Art in Endobariatric Procedures",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8868350-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 1: Advances in Bariatrics",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T08:00:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Vivek",
+          "last_name": "Kumbhari",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Nikhil A.",
+          "last_name": "Kumta",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T08:15:00.000",
+      "title": "Managing Complications of Bariatric Procedures",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a88a7af0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 1: Advances in Bariatrics",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T08:15:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Nikhil A.",
+          "last_name": "Kumta",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T08:30:00.000",
+      "title": "Panel Discussion and Q & A",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a88e7290-f914-11e8-8a68-45e36006ecd9",
+      "session": "ASGE President's Lecture",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T08:30:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Steven A.",
+          "last_name": "Edmundowicz",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Seth A.",
+          "last_name": "Gross",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T08:45:00.000",
+      "title": "Endoscopic and Surgical Bariatric Procedures: Which One for Which Patient?",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8924320-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 2: Lesion Resection",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T08:45:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Jerome D.",
+          "last_name": "Waye",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "David H.",
+          "last_name": "Robbins",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T09:00:00.000",
+      "title": "Polyps I've Known, Seen, and Removed",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a89688e0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 2: Lesion Resection",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T09:00:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Gregory B.",
+          "last_name": "Haber",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "David H.",
+          "last_name": "Robbins",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T09:15:00.000",
+      "title": "Beyond the Mucosa: Lesion Resection",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a89b1cc0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 2: Lesion Resection",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T09:15:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Gottumukkala S.",
+          "last_name": "Raju",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "David H.",
+          "last_name": "Robbins",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T09:30:00.000",
+      "title": "Tips and Tricks for Getting Out of a Fix",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8a025d0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Keynote Lecture",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T09:30:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Jacques",
+          "last_name": "Devière",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Jonathan",
+          "last_name": "Cohen",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T09:45:00.000",
+      "title": "Endoscopic Insights and Techniques in the Perioperative Management of Pancreatic Cancer",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8a3cf50-f914-11e8-8a68-45e36006ecd9",
+      "session": "David B. Falkenstein, MD Lecture",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T10:15:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Todd H.",
+          "last_name": "Baron",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Mark A.",
+          "last_name": "Schattner",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T10:30:00.000",
+      "title": "Bile Duct Access in Altered Anatomy",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8a8b150-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 3: Diseases of the Esophagus",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T10:30:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Abraham",
+          "last_name": "Khan",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Felice",
+          "last_name": "Schnoll-Sussman",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T10:45:00.000",
+      "title": "New Techniques in Evaluating Upper GI Motility: Balloons, Capsules, Pills ",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8aca8f0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 3: Diseases of the Esophagus",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T10:45:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Julian A.",
+          "last_name": "Abrams",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Felice",
+          "last_name": "Schnoll-Sussman",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T11:00:00.000",
+      "title": "Endoscopic and Non-Endoscopic Screening for Barrett's Esophagus: Current and Future Perspectives",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8b115c0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 3: Diseases of the Esophagus",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T11:00:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Satish",
+          "last_name": "Nagula",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Felice",
+          "last_name": "Schnoll-Sussman",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T11:15:00.000",
+      "title": "Surveillance of Barrett's Esophagus: A Balanced Approach",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8b645e0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 3: Diseases of the Esophagus",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T11:15:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Charles J.",
+          "last_name": "Lightdale",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Felice",
+          "last_name": "Schnoll-Sussman",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T11:30:00.000",
+      "title": "New Methods for Treatment of Barrett's Esophagus",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8bc3950-f914-11e8-8a68-45e36006ecd9",
+      "session": "Richard S. McCray, MD Lecture",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T11:30:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Sidney J.",
+          "last_name": "Winawer",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T11:45:00.000",
+      "title": "80% by 2018: A Tale of Successes",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8c205b0-f914-11e8-8a68-45e36006ecd9",
+      "session": "NYSGE President's Lecture",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T11:45:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Seth A.",
+          "last_name": "Gross",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Mark B.",
+          "last_name": "Pochapin",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T12:00:00.000",
+      "title": "Adenoma Detection Rates: Where We Are, Where We Are Going",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8c5af30-f914-11e8-8a68-45e36006ecd9",
+      "session": "Concurrent Lunch Program I: Incomplete Resection Rates in Polyps Smaller than 2 Centimeters*",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T12:10:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Vivek",
+          "last_name": "Kaul",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T13:00:00.000",
+      "title": "Incomplete Resection Rates: Current Trends and Clinical Consequences ",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8c9a6d0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Concurrent Lunch Program I: Incomplete Resection Rates in Polyps Smaller than 2 Centimeters*",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T12:10:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Jonathan M.",
+          "last_name": "Buscaglia",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T13:00:00.000",
+      "title": "Best Techniques to Perform Submucosal Lift ",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8cd5050-f914-11e8-8a68-45e36006ecd9",
+      "session": "Concurrent Lunch Program I: Incomplete Resection Rates in Polyps Smaller than 2 Centimeters*",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T12:10:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Vivek",
+          "last_name": "Kaul",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T13:00:00.000",
+      "title": "Strategies to Lower Rates of Incomplete Resection in Small Polyps ",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8d084a0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Concurrent Lunch Program I: Incomplete Resection Rates in Polyps Smaller than 2 Centimeters*",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T12:10:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Tonya",
+          "last_name": "Kaltenbach",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T13:00:00.000",
+      "title": "Improving Rates of Complete Polyp Resection",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8d42e20-f914-11e8-8a68-45e36006ecd9",
+      "session": "Concurrent Lunch Program II: From Science to Practice: A Gas-Filled Balloon System*",
+      "client_id": null,
+      "track": "Lunch Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T12:10:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Shelby",
+          "last_name": "Sullivan",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Anthony A.",
+          "last_name": "Starpoli",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T13:00:00.000",
+      "title": "From Science to Practice: A Gas-Filled Balloon System",
+      "room": "Wilder"
+    },
+    {
+      "presentation_id": "a8d78980-f914-11e8-8a68-45e36006ecd9",
+      "session": "Concurrent Lunch Program III: Advances in the Diagnosis, Management and Treatment of GERD*",
+      "client_id": null,
+      "track": "Lunch Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T12:10:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Petros",
+          "last_name": "Benias",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Abraham",
+          "last_name": "Khan",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Amy",
+          "last_name": "Tyberg",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T13:00:00.000",
+      "title": "Advances in the Diagnosis, Management and Treatment of GERD",
+      "room": "Liberty"
+    },
+    {
+      "presentation_id": "a8db3300-f914-11e8-8a68-45e36006ecd9",
+      "session": "Live Endoscopy 1",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T13:30:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T14:20:00.000",
+      "title": "Live Endoscopy 1",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8df2aa0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Live Endoscopy 1",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T14:20:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T14:30:00.000",
+      "title": "Panel Discussion",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8e2ad10-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 4: Colonoscopy and Colorectal Cancer",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T14:30:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Benjamin",
+          "last_name": "Lebwohl",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Susana",
+          "last_name": "Gonzalez",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T14:45:00.000",
+      "title": "Are Right Sided Polyps Really Different?",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8e40ca0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 4: Colonoscopy and Colorectal Cancer",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T14:45:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Brian P.",
+          "last_name": "Bosworth",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Susana",
+          "last_name": "Gonzalez",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T15:00:00.000",
+      "title": "Quality in Colonoscopy",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8e76800-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 4: Colonoscopy and Colorectal Cancer",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T15:00:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Robin B.",
+          "last_name": "Mendelsohn",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Susana",
+          "last_name": "Gonzalez",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T15:15:00.000",
+      "title": "Young Onset Colorectal Cancer",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8eac360-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 4: Colonoscopy and Colorectal Cancer",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T15:15:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Steven H.",
+          "last_name": "Itzkowitz",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Susana",
+          "last_name": "Gonzalez",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T15:30:00.000",
+      "title": "Replacing Screening Colonoscopy",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8ec4a00-f914-11e8-8a68-45e36006ecd9",
+      "session": "Live Endoscopy 2",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T16:00:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T16:50:00.000",
+      "title": "Live Endoscopy 2",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8f068b0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Live Endoscopy 2",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T16:50:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T17:00:00.000",
+      "title": "Panel Discussion",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8f28b90-f914-11e8-8a68-45e36006ecd9",
+      "session": "Keynote Lecture",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T17:00:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Guido",
+          "last_name": "Costamagna",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Arnold J.",
+          "last_name": "Markowitz",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T17:15:00.000",
+      "title": "Difficult Biliary Strictures",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8f48760-f914-11e8-8a68-45e36006ecd9",
+      "session": "Peter D. Stevens, MD Endoscopic Video Forum",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T17:15:00.000",
+      "update": 1544728849,
+      "faculty": [
+        {
+          "first_name": "Habeeb",
+          "last_name": "Salameh",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Hafiz",
+          "last_name": "Khan",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Youssef",
+          "last_name": "El Douaihy",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Amir",
+          "last_name": "Rumman",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Matthew",
+          "last_name": "Skinner",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Stavros N.",
+          "last_name": "Stavropoulos",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T17:45:00.000",
+      "room": "Westside",
+      "title": "Peter D. Stevens, MD Endoscopic Video Forum"
+    },
+    {
+      "presentation_id": "a8f7bbb0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Keynote Lecture",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T07:30:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Michelle Kang",
+          "last_name": "Kim",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Patrick I.",
+          "last_name": "Okolo III",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T07:45:00.000",
+      "title": "How to Manage Pancreatic Neuroendocrine Tumors",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8fb8c40-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 5: GI Bleeding",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T07:45:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "David L.",
+          "last_name": "Carr-Locke",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Michelle Kang",
+          "last_name": "Kim",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T08:00:00.000",
+      "title": "Best GI Bleeding Tips and Techniques",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a8fe9980-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 5: GI Bleeding",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T08:00:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Jonathan M.",
+          "last_name": "Buscaglia",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Michelle Kang",
+          "last_name": "Kim",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T08:15:00.000",
+      "title": "Anticoagulation and GI Bleeding",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a9009550-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 5: GI Bleeding",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T08:15:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "Douglas K.",
+          "last_name": "Rex",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Michelle Kang",
+          "last_name": "Kim",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T08:30:00.000",
+      "title": "Reducing Complications and Medical-Legal Risk in Colonoscopy",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a9021bf0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Live Endoscopy 3",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T08:30:00.000",
+      "update": 1544072776,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T09:20:00.000",
+      "title": "Live Endoscopy 3",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a9037b80-f914-11e8-8a68-45e36006ecd9",
+      "session": "Live Endoscopy 3",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T09:20:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T09:30:00.000",
+      "title": "Panel Discussion",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a9050220-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 6: Pancreatic Diseases",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T10:00:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "John M.",
+          "last_name": "Poneros",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Vivek",
+          "last_name": "Kaul",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T10:15:00.000",
+      "title": "Necrotizing Pancreatitis: Primary Endoscopic Management",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a90688c0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 6: Pancreatic Diseases",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T10:15:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Timothy B.",
+          "last_name": "Gardner",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Vivek",
+          "last_name": "Kaul",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T10:30:00.000",
+      "title": "Is Endoscopic Treatment of Chronic Pancreatitis Futile?",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a9080f60-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 6: Pancreatic Diseases",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T10:30:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Vanessa M.",
+          "last_name": "Shami",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Vivek",
+          "last_name": "Kaul",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T10:45:00.000",
+      "title": "Premalignant Pancreatic Lesions: When to Worry and Fix in a Hurry",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a9096ef0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 6: Pancreatic Diseases",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T10:45:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Tamas A.",
+          "last_name": "Gonda",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Vivek",
+          "last_name": "Kaul",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T11:00:00.000",
+      "title": "EUS-Guided Therapies for the Treatment of Pancreatic Cancer",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a90ddbc0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Live Endoscopy 4",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T11:00:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T11:50:00.000",
+      "title": "Live Endoscopy 4",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a90f6260-f914-11e8-8a68-45e36006ecd9",
+      "session": "Live Endoscopy 4",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T11:50:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T12:00:00.000",
+      "title": "Panel Discussion",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a910e900-f914-11e8-8a68-45e36006ecd9",
+      "session": "Mechanically Enhanced Colonoscopy: Master the Art of Unfolding*",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T12:10:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Seth A.",
+          "last_name": "Gross",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T13:00:00.000",
+      "title": "Mechanically Enhanced Colonoscopy: Master the Art of Unfolding",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a9126fa0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Mechanically Enhanced Colonoscopy: Master the Art of Unfolding*",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T12:10:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Douglas K.",
+          "last_name": "Rex",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T13:00:00.000",
+      "title": "Mechanically Enhanced Colonoscopy: Master the Art of Unfolding",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a913cf30-f914-11e8-8a68-45e36006ecd9",
+      "session": "Keynote Lecture",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T13:30:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Diane M.",
+          "last_name": "Simeone",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Tamas A.",
+          "last_name": "Gonda",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T13:45:00.000",
+      "title": "Precision Oncology: Tissue and Blood-Based Strategies to Guide Patient Care",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a91555d0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Florence Lefcourt Lecture",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T13:45:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Tonya",
+          "last_name": "Kaltenbach",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Arun",
+          "last_name": "Swaminath",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T14:00:00.000",
+      "title": "Endoscopic Management of Inflammatory Bowel Disease",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a916b560-f914-11e8-8a68-45e36006ecd9",
+      "session": "Live Endoscopy 5",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T14:00:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T14:50:00.000",
+      "title": "Live Endoscopy 5",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a91fdd20-f914-11e8-8a68-45e36006ecd9",
+      "session": "Live Endoscopy 5",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T14:50:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T15:00:00.000",
+      "title": "Panel Discussion",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a9235f90-f914-11e8-8a68-45e36006ecd9",
+      "session": "Peter D. Stevens, MD Lecture",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T15:00:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Stavros N.",
+          "last_name": "Stavropoulos",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Peter H. R.",
+          "last_name": "Green",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T15:15:00.000",
+      "title": "Endoscopic Treatment of Upper Motility Disorders",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a9275730-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 7: New Approaches and New Organs",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T15:45:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Michel",
+          "last_name": "Kahaleh",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Frank G.",
+          "last_name": "Gress",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T16:00:00.000",
+      "title": "Turning Up the Heat in ERCP: Intraductal Therapies",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a928b6c0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 7: New Approaches and New Organs",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T16:00:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Petros C.",
+          "last_name": "Benias",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Frank G.",
+          "last_name": "Gress",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T16:15:00.000",
+      "title": "Meet the Interstitium: Our Newfound Organ",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a92a3d60-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 7: New Approaches and New Organs",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T16:15:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Amrita",
+          "last_name": "Sethi",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Frank G.",
+          "last_name": "Gress",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T16:30:00.000",
+      "title": "EUS-Guided Enteroenterostomies: Future or Folly?",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a92de6e0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 7: New Approaches and New Organs",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T16:30:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Sammy",
+          "last_name": "Ho",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Frank G.",
+          "last_name": "Gress",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T16:45:00.000",
+      "title": "EUS-Guided Access vs. ERCP: A Paradigm Shift in the Approach to Biliary Obstruction",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a92f9490-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 7: New Approaches and New Organs",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T16:45:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Patrick I.",
+          "last_name": "Okolo III",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Frank G.",
+          "last_name": "Gress",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T17:00:00.000",
+      "title": "Endoscopic Evaluation of Mid-Gut Bleeding",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a9314240-f914-11e8-8a68-45e36006ecd9",
+      "session": "Closing Remarks",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-14T17:00:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Patrick I.",
+          "last_name": "Okolo III",
+          "role": "Moderator"
+        },
+        {
+          "first_name": "Tamas A.",
+          "last_name": "Gonda",
+          "role": "Moderator"
+        },
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T17:10:00.000",
+      "title": "Annual New York Course Directors:",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "a9347690-f914-11e8-8a68-45e36006ecd9",
+      "session": "Welcome",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-13T07:30:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Barbara",
+          "last_name": "Zuccala",
+          "role": "Moderator"
+        },
+        {
+          "first_name": "Nancy S.",
+          "last_name": "Schlossberg",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T07:45:00.000",
+      "title": "Introduction",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a9362440-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 1: Updates on Colon Cancer",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-13T07:45:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Doreen",
+          "last_name": "Cokeley",
+          "role": "Moderator"
+        },
+        {
+          "first_name": "Catherine",
+          "last_name": "Bauer",
+          "role": "Panelist"
+        },
+        {
+          "first_name": "Kimberly",
+          "last_name": "Gittines",
+          "role": "Panelist"
+        },
+        {
+          "first_name": "Nancy S.",
+          "last_name": "Schlossberg",
+          "role": "Panelist"
+        },
+        {
+          "first_name": "Barbara",
+          "last_name": "Zuccala",
+          "role": "Panelist"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T08:45:00.000",
+      "title": "Nurses: Champions of Change: Strategies for Achieving 80% by 2018 and Beyond",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a937aae0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 1: Updates on Colon Cancer",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-13T08:45:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Robin B.",
+          "last_name": "Mendelsohn",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Doreen",
+          "last_name": "Cokeley",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T09:15:00.000",
+      "title": "Colorectal Cancer: On the Rise for Millennials and Others Under 50",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a9393180-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 1: Updates on Colon Cancer",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-13T09:15:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Robin B.",
+          "last_name": "Mendelsohn",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Doreen",
+          "last_name": "Cokeley",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T09:45:00.000",
+      "title": "Genetic Susceptibility for Colorectal Cancer",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a93ab820-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 2: Creating a Culture of Safety in Your GI Unit",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-13T10:15:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Michael",
+          "last_name": "Mutter",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Barbara",
+          "last_name": "Zuccala",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T11:00:00.000",
+      "title": "Developing a High Reliability Endoscopy Unit",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a93c8ce0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 2: Creating a Culture of Safety in Your GI Unit",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-13T11:00:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Jennifer M.",
+          "last_name": "Walsh",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Barbara",
+          "last_name": "Zuccala",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T12:00:00.000",
+      "title": "Legal Issues in Treating the GI Patient",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a9405d70-f914-11e8-8a68-45e36006ecd9",
+      "session": "Lunch Program",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-13T12:10:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Nancy S.",
+          "last_name": "Schlossberg",
+          "role": "Moderator"
+        },
+        {
+          "first_name": "Cheri",
+          "last_name": "Ackert-Burr",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T13:00:00.000",
+      "title": "Risk Analysis: Identifying Practice Gaps Utilizing Today’s Guidelines and Evidence Based Practice in Endoscope Reprocessing",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a9453f70-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 3: Creating a Culture of Safety in Your GI Unit, Part II",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-13T13:30:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Catherine",
+          "last_name": "Bauer",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Nancy S.",
+          "last_name": "Schlossberg",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T14:00:00.000",
+      "title": "Infection Prevention: Ensuring Your GI Unit Is Providing the Best Care",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a94b59f0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 3: Creating a Culture of Safety in Your GI Unit, Part II",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-13T14:00:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Carrie M.",
+          "last_name": "Young",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Nancy S.",
+          "last_name": "Schlossberg",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T14:30:00.000",
+      "title": "Safe Delivery of Anesthesia During Endoscopy",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a94ce090-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 3: Creating a Culture of Safety in Your GI Unit, Part II",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-13T14:30:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Ann",
+          "last_name": "Hewitt",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Nancy S.",
+          "last_name": "Schlossberg",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T15:30:00.000",
+      "title": "Endoscope Reprocessing Skills Lab",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a94e6730-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 3: Creating a Culture of Safety in Your GI Unit, Part II",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-13T16:00:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Barbara",
+          "last_name": "Zuccala",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Nancy S.",
+          "last_name": "Schlossberg",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T17:00:00.000",
+      "title": "Infection Prevention in Endoscopy: Reprocessing Endoscope Accessories",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a951e9a0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Welcome Back",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-14T07:30:00.000",
+      "update": 1544072777,
+      "faculty": [
+        {
+          "first_name": "Barbara",
+          "last_name": "Zuccala",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T07:45:00.000",
+      "title": "Course Director",
+      "room": "Marquis"
+    },
+    {
+      "presentation_id": "a953be60-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 4: The Pediatric GI Patient",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-14T07:45:00.000",
+      "update": 1544072996,
+      "faculty": [
+        {
+          "first_name": "Joel R.",
+          "last_name": "Rosh",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Mary Jo",
+          "last_name": "Miller",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T08:30:00.000",
+      "room": "Marquis",
+      "title": "Special Care for Our Youngest Patients"
+    },
+    {
+      "presentation_id": "a9554500-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 4: The Pediatric GI Patient",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-14T08:30:00.000",
+      "update": 1544072996,
+      "faculty": [
+        {
+          "first_name": "Jesse",
+          "last_name": "Aron",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Mary Jo",
+          "last_name": "Miller",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T09:15:00.000",
+      "room": "Marquis",
+      "title": "Pediatric Anesthesia During Endoscopy Procedures"
+    },
+    {
+      "presentation_id": "a956f2b0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 5: It's an Exciting Time to Be in GI!",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-14T10:00:00.000",
+      "update": 1544072996,
+      "faculty": [
+        {
+          "first_name": "Petros C.",
+          "last_name": "Benias",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Nancy S.",
+          "last_name": "Schlossberg",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T11:00:00.000",
+      "room": "Marquis",
+      "title": "Innovations, Complications, and Patient After-Care I: \nEndoscopic Submucosal Dissection (ESD), Per Oral Endoscopic Myotomy (POEM), Zenker's Diverticulotomy"
+    },
+    {
+      "presentation_id": "a9585240-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 5: It's an Exciting Time to Be in GI!",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-14T11:00:00.000",
+      "update": 1544072996,
+      "faculty": [
+        {
+          "first_name": "Lauren G.",
+          "last_name": "Khanna",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Nancy S.",
+          "last_name": "Schlossberg",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T12:00:00.000",
+      "room": "Marquis",
+      "title": "Innovations, Complications, and Patient After-Care II: \nEndoscopic Ultrasound (EUS), Pseudocyst Drainage, Endoscopic Retrograde Cholangiopancreatography (ERCP)"
+    },
+    {
+      "presentation_id": "a95c22d0-f914-11e8-8a68-45e36006ecd9",
+      "session": "Lunch Program",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-14T12:10:00.000",
+      "update": 1544072996,
+      "faculty": [
+        {
+          "first_name": "Peggy",
+          "last_name": "Fowler",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Barbara",
+          "last_name": "Zuccala",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T13:00:00.000",
+      "room": "Marquis",
+      "title": "Gastrointestinal Bleeding: Types, Challenges, and Endoscopic Management"
+    },
+    {
+      "presentation_id": "a95d8260-f914-11e8-8a68-45e36006ecd9",
+      "session": "Session 6: It's an Exciting Time to Be in GI!",
+      "client_id": null,
+      "track": "Nurse-Tech",
+      "directory_code": null,
+      "time_start": "2018-12-14T13:30:00.000",
+      "update": 1544072996,
+      "faculty": [
+        {
+          "first_name": "SriHari",
+          "last_name": "Mahadev",
+          "role": "Presenter"
+        },
+        {
+          "first_name": "Barbara",
+          "last_name": "Zuccala",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-14T14:30:00.000",
+      "room": "Marquis",
+      "title": "Innovations, Complications, and Patient After-Care III: \nRadio Frequency Ablation (RFA), Endoscopic Suturing and Defect Closure, Full Thickness Resection (FTR), Bariatric Endotherapies"
+    },
+    {
+      "presentation_id": "e57ebec0-fed8-11e8-b3aa-a3cc82f05d4a",
+      "session": "Housekeeping",
+      "client_id": null,
+      "track": "System",
+      "directory_code": null,
+      "time_start": "2018-12-13T08:30:00.000",
+      "update": 1544706815,
+      "faculty": [
+        {
+          "first_name": "Keeper",
+          "last_name": "House",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": true,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T09:00:00.000",
+      "title": "Questions",
+      "room": "Westside"
+    },
+    {
+      "presentation_id": "fcb3ac40-fefb-11e8-b772-27c273ece648",
+      "session": "Welcome",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2018-12-13T13:25:00.000",
+      "update": 1544722494,
+      "faculty": [
+        {
+          "first_name": "David A.",
+          "last_name": "Greenwald",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "NYSGE-2018",
+      "cme": false,
+      "time_end": "2018-12-13T13:30:00.000",
+      "room": "Westside",
+      "title": "NYSGE Update"
+    }
+  ]
+}

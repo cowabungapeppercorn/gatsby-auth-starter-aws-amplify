@@ -1,11 +1,10 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { isLoggedIn } from '../utils/auth';
+import TalksList from '../components/TalksList';
 
 const Home = () => <div>
-  <h1>Home</h1>
-	<p>You are now logged in! <Link to="/app/profile">View profile</Link></p>
-	<p>Now go build something great and deploy it using the <a href="https://console.amplify.aws">AWS Amplify Console</a></p>
+  <TalksList />
 	</div>
 
 export default Home
