@@ -9,14 +9,12 @@ import Login from '../components/Login';
 Amplify.configure(config)
 
 const IndexPage = () => {
-  if (isLoggedIn()) {
-    navigate("/app/home");
+  if (!isLoggedIn()) {
+    navigate("/app/login");
   }
 
   return (
-    <Layout>
-      {!isLoggedIn() && <Login />}
-    </Layout>
+    <App />
   )
 }
 
