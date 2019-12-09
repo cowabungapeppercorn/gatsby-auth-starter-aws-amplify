@@ -5,10 +5,10 @@ import Layout from "../components/layout/layout"
 import Home from "../components/Home"
 import Login from "../components/Login"
 import PrivateRoute from "../components/PrivateRoute"
-import ThursdayAm from "../components/Segments/ThursdayAm"
-import ThursdayPm from "../components/Segments/ThursdayPm"
-import Friday from "../components/Segments/Friday"
-import NurseTech from "../components/Segments/NurseTech"
+import ThursdayAm from "../components/SegmentsDisplay/ThursdayAm"
+import ThursdayPm from "../components/SegmentsDisplay/ThursdayPm"
+import Friday from "../components/SegmentsDisplay/Friday"
+import NurseTech from "../components/TracksDisplay/NurseTech"
 
 
 const App = () => (

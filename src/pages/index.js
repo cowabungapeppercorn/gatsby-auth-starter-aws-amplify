@@ -1,21 +1,18 @@
 import React from 'react'
-import { navigate } from '@reach/router'
-import { isLoggedIn } from '../utils/auth'
 
 import Amplify from 'aws-amplify'
 import config from '../aws-exports'
-import Login from '../components/Login'
+import Layout from '../components/layout/layout'
+import { Link } from 'gatsby'
 Amplify.configure(config)
 
 const IndexPage = () => {
-  if (isLoggedIn()) {
-    navigate("/app/home");
-  }
 
   return (
-    <>
-      {isLoggedIn() && <Login />}
-    </>
+    <Layout>
+      <Link to="/app/home">Home</Link>
+      <Link to="/app/login">Login</Link>
+    </Layout>
   )
 }
 
