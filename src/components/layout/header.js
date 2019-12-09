@@ -18,7 +18,7 @@ const Header = ({ siteTitle }) => (
     >
       <h1 style={{ margin: 0 }}>
         <Link
-          to="/"
+          to="/app/home"
           style={styles.headerTitle}
         >
           {`2018 Syllabus & Recordings`}
