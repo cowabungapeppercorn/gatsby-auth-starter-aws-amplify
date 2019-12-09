@@ -11,7 +11,13 @@ const IndexPage = () => {
     navigate("/app/login");
   }
 
+<<<<<<< HEAD
   return navigate("/app/home");
+=======
+  return (
+    <App />
+  )
+>>>>>>> 88ba5bdd50f499969bcc75899c931e2857b4450e
 }
 
 export default IndexPage
