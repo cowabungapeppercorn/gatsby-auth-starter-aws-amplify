@@ -5,6 +5,8 @@ import Modal from 'react-modal'
 
 
 const TalksList = ({ track, timeframe }) => {
+  const [imageModalOpen, setImageModalOpen] = useState(false);
+  const [videoModalOpen, setVideoModalOpen] = useState(false);
   const { dataJson } = useStaticQuery(
     graphql`
       query {
