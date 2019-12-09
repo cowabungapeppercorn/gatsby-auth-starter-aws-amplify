@@ -1,10 +1,12 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { useStaticQuery, graphql } from 'gatsby'
 import { FaFilePdf, FaVideo } from 'react-icons/fa'
 import Modal from 'react-modal'
 
 
 const TalksList = ({ track, timeframe }) => {
+  const [imageModalOpen, setImageModalOpen] = useState(false);
+  const [videoModalOpen, setVideoModalOpen] = useState(false);
   const { dataJson } = useStaticQuery(
     graphql`
       query {
