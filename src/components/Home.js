@@ -15,6 +15,7 @@ const Home = () => <div>
       </ul>
       <h4>By Track:</h4>
       <ul>
+        <li><Link to="/app/general-session">General Session</Link></li>
         <li><Link to="/app/nurse-tech">Doris C. Barnie GI Nurses and Associates Course</Link></li>
       </ul>
     </>
