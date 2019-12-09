@@ -36,7 +36,7 @@ class Login extends React.Component {
   }
 
   render() {
-    if (isLoggedIn()) navigate('/app/profile')
+    if (isLoggedIn()) navigate('/app/home')
     return (
       <div>
         <h1>Sign In</h1>
