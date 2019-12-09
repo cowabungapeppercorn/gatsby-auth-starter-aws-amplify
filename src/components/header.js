@@ -1,10 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import { navigate } from '@reach/router'
-
-import { logout, isLoggedIn } from "../utils/auth"
-import { Auth } from 'aws-amplify'
 
 const Header = ({ siteTitle }) => (
   <div
@@ -28,16 +24,6 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
-      {/* {
-        isLoggedIn() && (
-          <p
-            onClick={
-              () => Auth.signOut().then(logout(() => navigate('/app/login'))).catch(err => console.log('eror:', err))
-            }
-            style={styles.link}
-          >Sign Out</p>
-        )
-      } */}
     </div>
   </div>
 )
