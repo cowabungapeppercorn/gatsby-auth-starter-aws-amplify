@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import { isLoggedIn } from '../utils/auth';
 
 const Home = () => <div>
-  {isLoggedIn && (
+  {isLoggedIn() && (
     <>
       <h2>42nd Annual New York Course</h2>
       <ul><li><Link to="/app/thursday-am">Day 1 - Thursday, Dec 13, 2018 AM</Link></li>
