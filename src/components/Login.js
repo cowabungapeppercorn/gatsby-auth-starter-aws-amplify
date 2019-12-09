@@ -61,7 +61,6 @@ class Login extends React.Component {
             <span style={styles.buttonText}>Sign In</span>
           </div>
         </div>
-        <Link to="/app/signup">Sign Up</Link><br />
       </div>
     )
   }
