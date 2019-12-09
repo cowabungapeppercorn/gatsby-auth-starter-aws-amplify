@@ -154,7 +154,6 @@ function filterByTrack(arr, track) {
 
 function filterByTimeframe(arr, timeframe) {
   const [start, stop] = timeframe.split('-');
-  console.log("START", start, "STOP", stop);
   const sortedArr = sortByTimeStamp(arr);
   return sortedArr.filter(talk => (
     convertSliceParse(talk.time_start) > parseInt(start) && convertSliceParse(talk.time_start) < parseInt(stop)
@@ -166,14 +165,12 @@ function filterBySession(arr, session) {
 }
 
 function getSessionData(data, track, timeframe) {
-  console.log("DATA", data);
   let arr;
   if (timeframe) {
     arr = filterByTimeframe(filterByTrack(removeNoArchive(data.talks), track), timeframe);
   } else {
     arr = sortByTimeStamp(filterByTrack(removeNoArchive(data.talks), track));
   }
-  console.log("ARR", arr);
   const eventSessionsSet = new Set(arr.map(talk => talk.session));
   const eventSessionsArr = [];
   eventSessionsSet.forEach(item =>
@@ -184,7 +181,6 @@ function getSessionData(data, track, timeframe) {
 
 function getSessionTalks(data, session) {
   let arr = sortByTimeStamp(filterBySession(data, session));
-  console.log("SESSION TALKS -->", arr);
   return arr;
 }
 
