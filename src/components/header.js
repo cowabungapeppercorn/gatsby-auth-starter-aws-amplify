@@ -21,7 +21,7 @@ const Header = ({ siteTitle }) => (
           to="/"
           style={styles.headerTitle}
         >
-          {siteTitle}
+          {`2018 Syllabus & Recordings`}
         </Link>
       </h1>
     </div>
@@ -30,7 +30,7 @@ const Header = ({ siteTitle }) => (
 
 const styles = {
   headerTitle: {
-    color: 'green',
+    color: 'white',
     textDecoration: 'none',
   },
   link: {
