@@ -73,7 +73,7 @@ const TalksList = ({ track, timeframe }) => {
                           <span style={{ float: 'right' }} >
                             <span className='image-icon' onClick={openImageModal}><FaFilePdf /> </span>
                             |
-                            <span className='video-icon' onClick={openVideoModal}><FaVideo /></span>
+                            <span className='video-icon' onClick={openVideoModal}> <FaVideo /></span>
                           </span>
                         </li>
                       ))}
