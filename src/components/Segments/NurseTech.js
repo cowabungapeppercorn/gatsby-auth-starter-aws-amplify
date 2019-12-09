@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import TalksList from '../TalksList'
+import TalksList from '../TalksList/TalksList'
 
 const NurseTech = () => {
   return (

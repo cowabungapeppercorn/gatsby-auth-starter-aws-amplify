@@ -3,6 +3,8 @@ import { useStaticQuery, graphql } from 'gatsby'
 import { FaFilePdf, FaVideo } from 'react-icons/fa'
 import Modal from 'react-modal'
 
+import '../TalksList/TalksList.css'
+
 
 const TalksList = ({ track, timeframe }) => {
   const [imageModalOpen, setImageModalOpen] = useState(false);
