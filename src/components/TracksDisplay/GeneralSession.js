@@ -13,4 +13,4 @@ const GeneralSession = () => {
   )
 }
 
-export default NurseTech
+export default GeneralSession
