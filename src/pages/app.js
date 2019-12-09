@@ -14,11 +14,11 @@ import NurseTech from "../components/NurseTech"
 const App = () => (
   <Layout>
     <Router>
-      <PrivateRoute path="/home" component={Home} />
-      <PrivateRoute path="/thursday-am" component={ThursdayAm} />
-      <PrivateRoute path="/thursday-pm" component={ThursdayPm} />
-      <PrivateRoute path="/friday" component={Friday} />
-      <PrivateRoute path="/nurse-tech" component={NurseTech} />
+      <PrivateRoute path="/app/home" component={Home} />
+      <PrivateRoute path="/app/thursday-am" component={ThursdayAm} />
+      <PrivateRoute path="/app/thursday-pm" component={ThursdayPm} />
+      <PrivateRoute path="/app/friday" component={Friday} />
+      <PrivateRoute path="/app/nurse-tech" component={NurseTech} />
       <Login path="/app/login" />
     </Router>
   </Layout>

@@ -5,10 +5,10 @@ import TalksList from '../components/TalksList';
 
 const Home = () => <div>
   {isLoggedIn && (
-    <ul><li><Link to="/thursday-am">Day 1 - Thursday, Dec 13, 2018 AM</Link></li>
-    <li><Link to="/thursday-pm">Day 1 - Thursday, Dec 13, 2018 PM</Link></li>
-    <li><Link to="/friday">Day 2 - Friday, Dec 14, 2018 AM-PM</Link></li>
-    <li><Link to="/nursetech">Doris C. Barnie GI Nurses and Associates Course</Link></li></ul>
+    <ul><li><Link to="/app/thursday-am">Day 1 - Thursday, Dec 13, 2018 AM</Link></li>
+    <li><Link to="/app/thursday-pm">Day 1 - Thursday, Dec 13, 2018 PM</Link></li>
+    <li><Link to="/app/friday">Day 2 - Friday, Dec 14, 2018 AM-PM</Link></li>
+    <li><Link to="/app/nursetech">Doris C. Barnie GI Nurses and Associates Course</Link></li></ul>
   )}
 </div>
 
