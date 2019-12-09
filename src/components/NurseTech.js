@@ -5,7 +5,7 @@ import TalksList from './TalksList'
 const NurseTech = () => {
   return (
     <>
-      <h2>Thursday AM<span style={{ float: 'right' }}><Link to="/">home</Link></span></h2>
+      <h2>Nurse Tech<span style={{ float: 'right' }}><Link to="/">home</Link></span></h2>
       <TalksList track="Nurse-Tech" />
     </>
   )
