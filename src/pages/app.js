@@ -1,14 +1,14 @@
 import React from "react"
 import { Router } from "@reach/router"
 
-import Layout from "../components/layout"
+import Layout from "../components/layout/layout"
 import Home from "../components/Home"
 import Login from "../components/Login"
 import PrivateRoute from "../components/PrivateRoute"
-import ThursdayAm from "../components/ThursdayAm"
-import ThursdayPm from "../components/ThursdayPm"
-import Friday from "../components/Friday"
-import NurseTech from "../components/NurseTech"
+import ThursdayAm from "../components/Segments/ThursdayAm"
+import ThursdayPm from "../components/Segments/ThursdayPm"
+import Friday from "../components/Segments/Friday"
+import NurseTech from "../components/Segments/NurseTech"
 
 
 const App = () => (

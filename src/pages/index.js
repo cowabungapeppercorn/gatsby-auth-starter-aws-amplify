@@ -1,6 +1,6 @@
 import React from 'react'
 import { navigate } from '@reach/router'
-import Layout from '../components/layout'
+import Layout from '../components/layout/layout'
 import { isLoggedIn } from '../utils/auth'
 
 import Amplify from 'aws-amplify'

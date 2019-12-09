@@ -1,5 +1,5 @@
 import React from 'react'
-import TalksList from './TalksList'
+import TalksList from '../TalksList'
 import { Link } from 'gatsby'
 
 const ThursdayPm = () => {
