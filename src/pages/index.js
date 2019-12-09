@@ -10,8 +10,7 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <Link to="/app/home">Home</Link>
-      <Link to="/app/login">Login</Link>
+      <Link to="/app/home">Enter Site</Link>
     </Layout>
   )
 }
