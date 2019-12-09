@@ -15,7 +15,7 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      {!isLoggedIn && <Login />}
+      <Login />
     </Layout>
   )
 }
