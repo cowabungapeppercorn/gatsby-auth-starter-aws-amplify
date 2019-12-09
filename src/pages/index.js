@@ -4,14 +4,19 @@ import { isLoggedIn } from '../utils/auth'
 
 import Amplify from 'aws-amplify'
 import config from '../aws-exports'
+import Login from '../components/Login'
 Amplify.configure(config)
 
 const IndexPage = () => {
-  if (!isLoggedIn()) {
-    navigate("/app/login");
+  if (isLoggedIn()) {
+    navigate("/app/home");
   }
 
-  return navigate("/app/home");
+  return (
+    <>
+      {isLoggedIn() && <Login />}
+    </>
+  )
 }
 
 export default IndexPage
