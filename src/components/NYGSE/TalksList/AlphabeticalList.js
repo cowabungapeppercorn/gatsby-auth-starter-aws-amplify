@@ -9,7 +9,7 @@ const DisplayDataByFaculty = () => {
   const { dataJson } = useStaticQuery(
     graphql`
       query {
-        dataJson{
+        nysgeDataJson{
           talks {
             session
             title

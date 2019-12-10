@@ -12,7 +12,7 @@ const TalksList = ({ track, timeframe }) => {
   const { dataJson } = useStaticQuery(
     graphql`
       query {
-        dataJson{
+        nysgeDataJson{
           talks {
             session
             title
