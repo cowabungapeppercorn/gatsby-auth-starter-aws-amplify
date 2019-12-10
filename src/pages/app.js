@@ -10,6 +10,7 @@ import ThursdayPm from "../components/SegmentsDisplay/ThursdayPm"
 import Friday from "../components/SegmentsDisplay/Friday"
 import GeneralSession from "../components/TracksDisplay/GeneralSession"
 import NurseTech from "../components/TracksDisplay/NurseTech"
+import Presenters from "../components/PresentersDisplay/Presenters"
 
 
 const App = () => (
@@ -21,6 +22,7 @@ const App = () => (
       <PrivateRoute path="/app/friday" component={Friday} />
       <PrivateRoute path="/app/general-session" component={GeneralSession} />
       <PrivateRoute path="/app/nurse-tech" component={NurseTech} />
+      <PrivateRoute path="/app/presenters" component={Presenters} />
       <Login path="/app/login" />
     </Router>
   </Layout>

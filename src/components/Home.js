@@ -18,6 +18,10 @@ const Home = () => <div>
         <li><Link to="/app/general-session">General Session</Link></li>
         <li><Link to="/app/nurse-tech">Doris C. Barnie GI Nurses and Associates Course</Link></li>
       </ul>
+      <h4>A - Z:</h4>
+      <ul>
+        <li><Link to="/app/presenters">Presenters A - Z</Link></li>
+      </ul>
     </>
   )}
 </div>
