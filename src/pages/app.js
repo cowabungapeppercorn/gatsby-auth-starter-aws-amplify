@@ -5,12 +5,12 @@ import Layout from "../components/layout/layout"
 import Home from "../components/Home"
 import Login from "../components/Login"
 import PrivateRoute from "../components/PrivateRoute"
-import ThursdayAm from "../components/SegmentsDisplay/ThursdayAm"
-import ThursdayPm from "../components/SegmentsDisplay/ThursdayPm"
-import Friday from "../components/SegmentsDisplay/Friday"
-import GeneralSession from "../components/TracksDisplay/GeneralSession"
-import NurseTech from "../components/TracksDisplay/NurseTech"
-import Presenters from "../components/PresentersDisplay/Presenters"
+import ThursdayAm from "../components/NYGSE/SegmentsDisplay/ThursdayAm"
+import ThursdayPm from "../components/NYGSE/SegmentsDisplay/ThursdayPm"
+import Friday from "../components/NYGSE/SegmentsDisplay/Friday"
+import GeneralSession from "../components/NYGSE/TracksDisplay/GeneralSession"
+import NurseTech from "../components/NYGSE/TracksDisplay/NurseTech"
+import Presenters from "../components/NYGSE/PresentersDisplay/Presenters"
 
 
 const App = () => (
