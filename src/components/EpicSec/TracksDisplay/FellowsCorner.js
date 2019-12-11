@@ -8,7 +8,7 @@ const FellowsCorner = () => {
       <h2>Fellow's Corner
         <span style={{ float: 'right' }}><Link to="/app/home">back</Link></span>
       </h2>
-      <EpicTalksList track="Fellows Corner" />
+      <EpicTalksList track="Non-CME: CMO's Corner" />
     </>
   )
 }
