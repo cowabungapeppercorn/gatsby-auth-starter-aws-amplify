@@ -24,8 +24,15 @@ const Home = () => <div>
       </ul>
       <hr></hr>
       <h2>EPIC-SEC 2019</h2>
+      <h4>By Day:</h4>
       <ul>
-        <li><Link to="/app/epic-friday">Day 1 - Friday, May 2, 2019</Link></li>
+        <li><Link to="/app/epic-thursday">Day 1 - Thursday, May 2, 2019</Link></li>
+        <li><Link to="/app/epic-friday">Day 2 - Friday, May 3, 2019</Link></li>
+        <li><Link to="/app/epic-saturday">Day 3 - Saturday, May 4, 2019</Link></li>
+      </ul>
+      <h4>By Track:</h4>
+      <ul>
+        
       </ul>
     </>
   )}
