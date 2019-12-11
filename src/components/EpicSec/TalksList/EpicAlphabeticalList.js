@@ -76,11 +76,11 @@ const DisplayDataByFaculty = () => {
                 <li>{talk.title}
                   <span style={{ float: 'right' }} >
                     <span className='image-icon'
-                      onClick={() => openImageModal(talk.title, presenter)}><FaFilePdf />
+                      onClick={() => openImageModal(talk.title, formatPresenterForFooter(presenter))}><FaFilePdf />
                     </span>
                     |
                     <span className='video-icon'
-                      onClick={() => openVideoModal(talk.title, presenter)}> <FaVideo />
+                      onClick={() => openVideoModal(talk.title, formatPresenterForFooter(presenter))}> <FaVideo />
                     </span>
                   </span>
                 </li>
@@ -120,6 +120,11 @@ const DisplayDataByFaculty = () => {
       </Modal>
     </>
   )
+}
+
+function formatPresenterForFooter(presenter) {
+  [last, first] = presenter.split(', ');
+  return [first, last].join(' ');
 }
 
 function removeNoArchive(arr) {
