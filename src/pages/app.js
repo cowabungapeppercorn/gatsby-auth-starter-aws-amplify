@@ -14,7 +14,7 @@ import Presenters from "../components/NYGSE/PresentersDisplay/Presenters"
 import EpicThursday from "../components/EpicSec/SegmentsDisplay/EpicThursday"
 import EpicFriday from "../components/EpicSec/SegmentsDisplay/EpicFriday"
 import EpicSaturday from "../components/EpicSec/SegmentsDisplay/EpicSaturday"
-import EpicPresenters from "../components/EpicSec/SegmentsDisplay/EpicPresenters"
+import EpicPresenters from "../components/EpicSec/PresentersDisplay/EpicPresenters"
 
 
 const App = () => (
