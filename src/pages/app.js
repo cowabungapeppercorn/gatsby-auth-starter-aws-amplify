@@ -21,7 +21,6 @@ import CocktailsAndCases from "../components/EpicSec/TracksDisplay/CocktailsAndC
 import Coronary from "../components/EpicSec/TracksDisplay/Coronary"
 import FellowsCorner from "../components/EpicSec/TracksDisplay/FellowsCorner"
 import EpicGeneralSession from "../components/EpicSec/TracksDisplay/GeneralSession"
-import EpicGeneralSession from "../components/EpicSec/TracksDisplay/GeneralSession"
 import InnovationSummit from "../components/EpicSec/TracksDisplay/InnovationSummit"
 import LazarusBattle from "../components/EpicSec/TracksDisplay/LazarusBattle"
 import LiveCases from "../components/EpicSec/TracksDisplay/LiveCases"
