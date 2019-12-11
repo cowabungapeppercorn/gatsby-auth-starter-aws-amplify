@@ -6,7 +6,7 @@ import Modal from 'react-modal'
 const DisplayDataByFaculty = () => {
   const [imageModalOpen, setImageModalOpen] = useState(false);
   const [videoModalOpen, setVideoModalOpen] = useState(false);
-  const { dataJson } = useStaticQuery(
+  const { nysgeDataJson } = useStaticQuery(
     graphql`
       query {
         nysgeDataJson{
@@ -58,11 +58,11 @@ const DisplayDataByFaculty = () => {
   return (
     <>
       <ul>
-        {getSessionPresenters(dataJson).map(presenter => (
+        {getSessionPresenters(nysgeDataJson).map(presenter => (
           <li>
             {presenter}
             <ul>
-              {getPresenterTalks(dataJson.talks, presenter).map(talk => (
+              {getPresenterTalks(nysgeDataJson.talks, presenter).map(talk => (
                 <li>{talk.title}
                   <span style={{ float: 'right' }} >
                     <span className='image-icon' onClick={openImageModal}><FaFilePdf /> </span>

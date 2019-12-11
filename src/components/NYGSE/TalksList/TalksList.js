@@ -9,7 +9,7 @@ import './TalksList.css'
 const TalksList = ({ track, timeframe }) => {
   const [imageModalOpen, setImageModalOpen] = useState(false);
   const [videoModalOpen, setVideoModalOpen] = useState(false);
-  const { dataJson } = useStaticQuery(
+  const { nysgeDataJson } = useStaticQuery(
     graphql`
       query {
         nysgeDataJson{
@@ -61,11 +61,11 @@ const TalksList = ({ track, timeframe }) => {
   return (
     <>
       <ul>
-        {getSessionData(dataJson, track, timeframe).map(session => (
+        {getSessionData(nysgeDataJson, track, timeframe).map(session => (
           <li key={session}>
             {session}
             <ul>
-              {getSessionTalks(dataJson.talks, session).map(talk => (
+              {getSessionTalks(nysgeDataJson.talks, session).map(talk => (
                 <li key={talk.title}>
                   {talk.title}
                   {talk.faculty && (
