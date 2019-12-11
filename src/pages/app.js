@@ -20,6 +20,14 @@ import CardiologyClinicUpdate from "../components/EpicSec/TracksDisplay/Cardiolo
 import CocktailsAndCases from "../components/EpicSec/TracksDisplay/CocktailsAndCases"
 import Coronary from "../components/EpicSec/TracksDisplay/Coronary"
 import FellowsCorner from "../components/EpicSec/TracksDisplay/FellowsCorner"
+import EpicGeneralSession from "../components/EpicSec/TracksDisplay/GeneralSession"
+import EpicGeneralSession from "../components/EpicSec/TracksDisplay/GeneralSession"
+import InnovationSummit from "../components/EpicSec/TracksDisplay/InnovationSummit"
+import LazarusBattle from "../components/EpicSec/TracksDisplay/LazarusBattle"
+import LiveCases from "../components/EpicSec/TracksDisplay/LiveCases"
+import Nursing from "../components/EpicSec/TracksDisplay/Nursing"
+import Peripheral from "../components/EpicSec/TracksDisplay/Peripheral"
+import Structural from "../components/EpicSec/TracksDisplay/Structural"
 
 
 const App = () => (
@@ -41,6 +49,13 @@ const App = () => (
       <PrivateRoute path="/app/epic-cocktails-and-cases" component={CocktailsAndCases} />
       <PrivateRoute path="/app/epic-coronary" component={Coronary} />
       <PrivateRoute path="/app/epic-fellows-corner" component={FellowsCorner} />
+      <PrivateRoute path="/app/epic-general-session" component={EpicGeneralSession} />
+      <PrivateRoute path="/app/epic-innovation-summit" component={InnovationSummit} />
+      <PrivateRoute path="/app/epic-lazarus-battle" component={LazarusBattle} />
+      <PrivateRoute path="/app/epic-live-cases" component={LiveCases} />
+      <PrivateRoute path="/app/epic-nursing" component={Nursing} />
+      <PrivateRoute path="/app/epic-peripheral" component={Peripheral} />
+      <PrivateRoute path="/app/epic-structural" component={Structural} />
       <Login path="/app/login" />
     </Router>
   </Layout>

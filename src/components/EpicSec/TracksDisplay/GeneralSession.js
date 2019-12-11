@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import EpicTalksList from '../TalksList/EpicTalksList'
 
-const GeneralSession = () => {
+const EpicGeneralSession = () => {
   return (
     <>
       <h2>General Session
@@ -13,4 +13,4 @@ const GeneralSession = () => {
   )
 }
 
-export default GeneralSession
+export default EpicGeneralSession
