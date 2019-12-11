@@ -11,6 +11,7 @@ import Friday from "../components/NYGSE/SegmentsDisplay/Friday"
 import GeneralSession from "../components/NYGSE/TracksDisplay/GeneralSession"
 import NurseTech from "../components/NYGSE/TracksDisplay/NurseTech"
 import Presenters from "../components/NYGSE/PresentersDisplay/Presenters"
+import EpicFriday from "../components/EpicSec/SegmentsDisplay/EpicFriday"
 
 
 const App = () => (
@@ -23,6 +24,7 @@ const App = () => (
       <PrivateRoute path="/app/general-session" component={GeneralSession} />
       <PrivateRoute path="/app/nurse-tech" component={NurseTech} />
       <PrivateRoute path="/app/presenters" component={Presenters} />
+      <PrivateRoute path="/app/epic-friday" component={EpicFriday} />
       <Login path="/app/login" />
     </Router>
   </Layout>
