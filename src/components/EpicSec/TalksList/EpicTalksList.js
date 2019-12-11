@@ -3,7 +3,6 @@ import { useStaticQuery, graphql } from 'gatsby'
 import { FaFilePdf, FaVideo } from 'react-icons/fa'
 import Modal from 'react-modal'
 
-import './TalksList.css'
 
 
 const EpicTalksList = ({ track, timeframe }) => {
