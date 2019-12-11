@@ -123,7 +123,7 @@ const DisplayDataByFaculty = () => {
 }
 
 function formatPresenterForFooter(presenter) {
-  [last, first] = presenter.split(', ');
+  const [last, first] = presenter.split(', ');
   return [first, last].join(' ');
 }
 
