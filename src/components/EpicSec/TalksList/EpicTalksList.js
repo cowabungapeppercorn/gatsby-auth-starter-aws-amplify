@@ -165,9 +165,9 @@ function filterBySession(arr, session) {
 
 function getSessionData(data, track, timeframe) {
   let arr;
-  if (timeframe) {
+  if (timeframe && !track) {
     console.log("TIMEFRAME DETECTED");
-    arr = filterByTimeframe(filterByTrack(removeNoArchive(data.talks), track), timeframe);
+    arr = filterByTimeframe(removeNoArchive(data.talks), timeframe);
     console.log("ARR AFTER FILTER", arr);
   } else {
     arr = sortByTimeStamp(filterByTrack(removeNoArchive(data.talks), track));
