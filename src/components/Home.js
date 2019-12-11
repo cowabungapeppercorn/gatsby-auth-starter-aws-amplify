@@ -22,6 +22,11 @@ const Home = () => <div>
       <ul>
         <li><Link to="/app/presenters">Presenters A - Z</Link></li>
       </ul>
+      <hr></hr>
+      <h2>EPIC-SEC 2019</h2>
+      <ul>
+        <li><Link to="/app/epic-friday">Day 1 - Friday, May 2, 2019</Link></li>
+      </ul>
     </>
   )}
 </div>
