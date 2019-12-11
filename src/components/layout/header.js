@@ -21,7 +21,7 @@ const Header = ({ siteTitle }) => (
           to="/app/home"
           style={styles.headerTitle}
         >
-          {`2018 Syllabus & Recordings`}
+          {`Event Archive`}
         </Link>
       </h1>
     </div>
