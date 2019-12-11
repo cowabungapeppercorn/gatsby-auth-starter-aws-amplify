@@ -8,6 +8,8 @@ import Modal from 'react-modal'
 const EpicTalksList = ({ track, timeframe }) => {
   const [imageModalOpen, setImageModalOpen] = useState(false);
   const [videoModalOpen, setVideoModalOpen] = useState(false);
+  const [modalHeader, setModalHeader] = useState("");
+  const [modalFooter, setModalFooter] = useState("");
   const { epicDataJson } = useStaticQuery(
     graphql`
       query {
@@ -41,19 +43,27 @@ const EpicTalksList = ({ track, timeframe }) => {
     }
   };
 
-  function openImageModal() {
+  function openImageModal(header, footer) {
+    setModalHeader(header);
+    setModalFooter(footer);
     setImageModalOpen(true);
   }
 
-  function openVideoModal() {
+  function openVideoModal(header, footer) {
+    setModalHeader(header);
+    setModalFooter(footer);
     setVideoModalOpen(true);
   }
 
   function closeImageModal() {
+    setModalHeader("");
+    setModalFooter("");
     setImageModalOpen(false);
   }
 
   function closeVideoModal() {
+    setModalHeader("");
+    setModalFooter("");
     setVideoModalOpen(false);
   }
 
@@ -72,9 +82,13 @@ const EpicTalksList = ({ track, timeframe }) => {
                       {talk.faculty.filter(fac => fac.role === 'Presenter').map(fac => (
                         <li>{fac.first_name} {fac.last_name}
                           <span style={{ float: 'right' }} >
-                            <span className='image-icon' onClick={openImageModal}><FaFilePdf /> </span>
+                            <span className='image-icon'
+                              onClick={() => openImageModal(talk.title, `${fac.first_name} ${fac.last_name}`)}><FaFilePdf />
+                            </span>
                             |
-                            <span className='video-icon' onClick={openVideoModal}> <FaVideo /></span>
+                            <span className='video-icon'
+                              onClick={() => openVideoModal(talk.title, `${fac.first_name} ${fac.last_name}`)}> <FaVideo />
+                            </span>
                           </span>
                         </li>
                       ))}
@@ -94,12 +108,12 @@ const EpicTalksList = ({ track, timeframe }) => {
         contentLabel="Video"
         style={customStyles}
       >
-        <h2>Image Modal</h2>
+        <h2>{modalHeader || "Title"}</h2>
         <button onClick={closeImageModal}>X</button>
         <div style={{ margin: 'auto', height: '200px', width: '300px', backgroundColor: '#333', color: '#999999' }}>
           Image goes here
         </div>
-        <p>Info about presenter/talk if desired</p>
+        <p>{modalFooter || "footer"}</p>
       </Modal>
 
       {/* VIDEO MODAL */}
@@ -109,12 +123,12 @@ const EpicTalksList = ({ track, timeframe }) => {
         contentLabel="Video"
         style={customStyles}
       >
-        <h2>Video Modal</h2>
+        <h2>{modalHeader || "Title"}</h2>
         <button onClick={closeVideoModal}>X</button>
         <div style={{ margin: 'auto', height: '200px', width: '300px', backgroundColor: '#333', color: '#999999' }}>
           Video goes here
         </div>
-        <p>Info about presenter/talk if desired</p>
+        <p>{modalFooter || "footer"}</p>
       </Modal>
     </>
   );
