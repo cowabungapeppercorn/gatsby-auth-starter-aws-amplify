@@ -5,7 +5,7 @@ import { isLoggedIn } from '../utils/auth';
 const Home = () => <div>
   {isLoggedIn() && (
     <>
-      <h2>42nd Annual New York Course</h2>
+      <h2>NYSGE - 42nd Annual New York Course</h2>
       <h4>By Day:</h4>
       <ul>
         <li><Link to="/app/thursday-am">Day 1 - Thursday, Dec 13, 2018 AM</Link></li>
