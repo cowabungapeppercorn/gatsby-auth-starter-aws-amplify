@@ -32,14 +32,18 @@ const EpicTalksList = ({ track, timeframe }) => {
 
   const customStyles = {
     content: {
+      position: 'relative',
       top: '50%',
       left: '50%',
       right: 'auto',
       bottom: 'auto',
-      height: '400px',
-      width: '400px',
+      height: '80%',
+      width: '70%',
       marginRight: '-50%',
-      transform: 'translate(-50%, -50%)'
+      transform: 'translate(-50%, -50%)',
+      textAlign: 'center',
+      backgroundColor: '#333333',
+      color: 'white'
     }
   };
 
@@ -108,12 +112,12 @@ const EpicTalksList = ({ track, timeframe }) => {
         contentLabel="Video"
         style={customStyles}
       >
-        <h2>{modalHeader || "Title"}</h2>
-        <button onClick={closeImageModal}>X</button>
-        <div style={{ margin: 'auto', height: '200px', width: '300px', backgroundColor: '#333', color: '#999999' }}>
-          Image goes here
+        <h3 style={{ marginTop: '30px' }}>{modalHeader || "TITLE"}</h3>
+        <p>{modalFooter || "Presenter"}</p>
+        <button style={{ position: 'absolute', top: '5px', right: '5px' }} onClick={closeImageModal}>X</button>
+        <div>
+          <iframe src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" width="400" height="500"></iframe>
         </div>
-        <p>{modalFooter || "footer"}</p>
       </Modal>
 
       {/* VIDEO MODAL */}
@@ -123,10 +127,12 @@ const EpicTalksList = ({ track, timeframe }) => {
         contentLabel="Video"
         style={customStyles}
       >
-        <h2>{modalHeader || "Title"}</h2>
-        <button onClick={closeVideoModal}>X</button>
-        <div style={{ margin: 'auto', height: '200px', width: '300px', backgroundColor: '#333', color: '#999999' }}>
-          Video goes here
+        <h3 style={{ marginTop: '30px' }}>{modalHeader || "TITLE"}</h3>
+        <button style={{ position: 'absolute', top: '5px', right: '5px' }} onClick={closeVideoModal}>X</button>
+        <div>
+          <iframe width="560" height="315"
+            src="https://c3-content.meetingarchive.events/recording/2019/C32019-VideoUnavailable.mp4">
+          </iframe>
         </div>
         <p>{modalFooter || "footer"}</p>
       </Modal>
