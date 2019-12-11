@@ -167,6 +167,7 @@ function getSessionData(data, track, timeframe) {
   let arr;
   if (timeframe && !track) {
     console.log("TIMEFRAME DETECTED");
+    console.log("TIMEFRAME --->", timeframe);
     arr = filterByTimeframe(removeNoArchive(data.talks), timeframe);
     console.log("ARR AFTER FILTER", arr);
   } else {
