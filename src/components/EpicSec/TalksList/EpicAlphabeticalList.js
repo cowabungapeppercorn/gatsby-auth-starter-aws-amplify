@@ -76,11 +76,11 @@ const DisplayDataByFaculty = () => {
                 <li>{talk.title}
                   <span style={{ float: 'right' }} >
                     <span className='image-icon'
-                      onClick={() => openImageModal(talk.title, `${fac.first_name} ${fac.last_name}`)}><FaFilePdf />
+                      onClick={() => openImageModal(talk.title, presenter)}><FaFilePdf />
                     </span>
                     |
                     <span className='video-icon'
-                      onClick={() => openVideoModal(talk.title, `${fac.first_name} ${fac.last_name}`)}> <FaVideo />
+                      onClick={() => openVideoModal(talk.title, presenter)}> <FaVideo />
                     </span>
                   </span>
                 </li>
