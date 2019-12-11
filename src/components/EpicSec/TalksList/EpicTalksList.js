@@ -64,7 +64,7 @@ const EpicTalksList = ({ track, timeframe }) => {
           <li key={session}>
             {session}
             <ul>
-              {getSessionTalks(epicDataJson.Items, session).map(talk => (
+              {getSessionTalks(epicDataJson.talks, session).map(talk => (
                 <li key={talk.title}>
                   {talk.title}
                   {talk.faculty && (
@@ -166,9 +166,9 @@ function filterBySession(arr, session) {
 function getSessionData(data, track, timeframe) {
   let arr;
   if (timeframe) {
-    arr = filterByTimeframe(filterByTrack(removeNoArchive(data.Items), track), timeframe);
+    arr = filterByTimeframe(filterByTrack(removeNoArchive(data.talks), track), timeframe);
   } else {
-    arr = sortByTimeStamp(filterByTrack(removeNoArchive(data.Items), track));
+    arr = sortByTimeStamp(filterByTrack(removeNoArchive(data.talks), track));
   }
   const eventSessionsSet = new Set(arr.map(talk => talk.session));
   const eventSessionsArr = [];
