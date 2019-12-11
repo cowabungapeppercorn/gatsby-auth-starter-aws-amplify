@@ -118,6 +118,7 @@ const EpicTalksList = ({ track, timeframe }) => {
         <div>
           <iframe src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" width="400" height="500"></iframe>
         </div>
+        <p><a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" download>download</a></p>
       </Modal>
 
       {/* VIDEO MODAL */}
