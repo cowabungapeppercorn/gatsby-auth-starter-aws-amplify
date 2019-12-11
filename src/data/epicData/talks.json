@@ -1,0 +1,4836 @@
+{
+  "Items": [
+    {
+      "presentation_id": "b29b8e40-6c3b-11e9-86ed-d94d5f498165",
+      "session": "Housekeeping",
+      "client_id": null,
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2019-05-01T09:00:00.000",
+      "update": 1556733927,
+      "faculty": [
+        {
+          "first_name": "House",
+          "last_name": "Keeping",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-01T09:30:00.000",
+      "title": "Housekeeping",
+      "room": "Lullwater"
+    },
+    {
+      "presentation_id": "f1278520-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Morning Session",
+      "client_id": "905271",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T07:30:00.000",
+      "update": 1555692544,
+      "faculty": [
+        {
+          "first_name": "Janet",
+          "last_name": "Wyman",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T08:00:00.000",
+      "room": "Oak",
+      "title": "Importance of Structural APPs"
+    },
+    {
+      "presentation_id": "f12e3be0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Morning Session",
+      "client_id": "905276",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T08:00:00.000",
+      "update": 1555692544,
+      "faculty": [
+        {
+          "first_name": "Sharon",
+          "last_name": "Howell",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T08:20:00.000",
+      "room": "Oak",
+      "title": "Imaging: Basic Echo"
+    },
+    {
+      "presentation_id": "f13519b0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Morning Session",
+      "client_id": "905277",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T08:20:00.000",
+      "update": 1555692544,
+      "faculty": [
+        {
+          "first_name": "Patrick",
+          "last_name": "Gleason",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T08:40:00.000",
+      "room": "Oak",
+      "title": "Imaging: CT/MR for the APP"
+    },
+    {
+      "presentation_id": "f1393860-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Opening Session",
+      "client_id": "870822",
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2019-05-02T07:30:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Habib",
+          "last_name": "Samady",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T08:40:00.000",
+      "room": "Lullwater",
+      "title": "Opening Session"
+    },
+    {
+      "presentation_id": "f13e4170-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Opening Session",
+      "client_id": "870855",
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2019-05-02T07:30:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Habib",
+          "last_name": "Samady",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T07:40:00.000",
+      "room": "Lullwater",
+      "title": "Opening Session Introductions"
+    },
+    {
+      "presentation_id": "f1428730-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Opening Session",
+      "client_id": "870854",
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2019-05-02T07:40:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Gregg",
+          "last_name": "Stone",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T07:55:00.000",
+      "room": "Lullwater",
+      "title": "TMVR for Secondary Mitral Regurgitation: Implications for COAPT and MITRA-FR"
+    },
+    {
+      "presentation_id": "f14657c0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Opening Session",
+      "client_id": "928853",
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2019-05-02T08:05:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "W.",
+          "last_name": "Hargrove",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T08:20:00.000",
+      "room": "Lullwater",
+      "title": "Mitral Valve Therapies Gold Standards "
+    },
+    {
+      "presentation_id": "f14bd600-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations",
+      "client_id": "870849",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-02T09:00:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Peter",
+          "last_name": "Block",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T10:30:00.000",
+      "room": "Lullwater",
+      "title": "Live Case Demonstration: Coronary and Structural Interventions (Mitral Case and CTO/CHIP)"
+    },
+    {
+      "presentation_id": "f150df10-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Aortic",
+      "client_id": "905278",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T10:45:00.000",
+      "update": 1555692544,
+      "faculty": [
+        {
+          "first_name": "Lisa",
+          "last_name": "Findley",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T11:00:00.000",
+      "room": "Oak",
+      "title": "Who Isn't the Right Patient for TAVR"
+    },
+    {
+      "presentation_id": "f15572f0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Aortic",
+      "client_id": "905282",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:00:00.000",
+      "update": 1555692544,
+      "faculty": [
+        {
+          "first_name": "Patricia",
+          "last_name": "Keegan",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T11:15:00.000",
+      "room": "Oak",
+      "title": "Choosing Anesthesia Wisely"
+    },
+    {
+      "presentation_id": "f15a7c00-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Aortic",
+      "client_id": "905283",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:15:00.000",
+      "update": 1555692544,
+      "faculty": [
+        {
+          "first_name": "Martina",
+          "last_name": "Kelly Speight",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T11:30:00.000",
+      "room": "Oak",
+      "title": "HAM or HALT, That is the Question"
+    },
+    {
+      "presentation_id": "f15f36f0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Aortic",
+      "client_id": "905285",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:30:00.000",
+      "update": 1555692544,
+      "faculty": [
+        {
+          "first_name": "Melissa",
+          "last_name": "Long",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T11:40:00.000",
+      "room": "Oak",
+      "title": "APP Case Study #1"
+    },
+    {
+      "presentation_id": "f16355a0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Aortic",
+      "client_id": "905288",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:40:00.000",
+      "update": 1555692544,
+      "faculty": [
+        {
+          "first_name": "Katie",
+          "last_name": "Jaschke",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T11:50:00.000",
+      "room": "Oak",
+      "title": "APP Cast Study #2"
+    },
+    {
+      "presentation_id": "f166ff20-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Aortic Valve",
+      "client_id": "870845",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T10:50:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Peter",
+          "last_name": "Block",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T12:00:00.000",
+      "room": "Emory",
+      "title": "Aortic Valve"
+    },
+    {
+      "presentation_id": "f16c0830-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Aortic Valve",
+      "client_id": "870844",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T10:50:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Toby",
+          "last_name": "Rogers",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T11:00:00.000",
+      "room": "Emory",
+      "title": "TAVR in Low Risk Surgical Patients: Good Enough for Your Sibling?"
+    },
+    {
+      "presentation_id": "f1711140-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Aortic Valve",
+      "client_id": "870843",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:00:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Patrick",
+          "last_name": "Gleason",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T11:10:00.000",
+      "room": "Emory",
+      "title": "If You are Not Planning Your Own TAVR CT You are in the Wrong Business"
+    },
+    {
+      "presentation_id": "f175a520-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Aortic Valve",
+      "client_id": "905126",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:15:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Prakash",
+          "last_name": "Balan",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T11:25:00.000",
+      "room": "Emory",
+      "title": "The Difficult Sapien Implantation: Case Studies"
+    },
+    {
+      "presentation_id": "f17a8720-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Aortic Valve",
+      "client_id": "870840",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:25:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Mustafa",
+          "last_name": "Ahmed",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T11:35:00.000",
+      "room": "Emory",
+      "title": "The Difficult CoreValve Implantation: Case Studies"
+    },
+    {
+      "presentation_id": "f17f1b00-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Aortic Valve",
+      "client_id": "870839",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:35:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Adnan",
+          "last_name": "Chhatriwalla",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T11:45:00.000",
+      "room": "Emory",
+      "title": "BVF (Valve Fracture): Before, After, or Never"
+    },
+    {
+      "presentation_id": "f1844b20-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Risk Stratification & Revascularization Options for Stable CAD",
+      "client_id": "905076",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T10:50:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Manesh",
+          "last_name": "Patel",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T12:00:00.000",
+      "room": "Lullwater",
+      "title": "Risk Stratification & Revascularization Options for Stable CAD"
+    },
+    {
+      "presentation_id": "f18890e0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Risk Stratification & Revascularization Options for Stable CAD",
+      "client_id": "905077",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T10:50:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Manesh",
+          "last_name": "Patel",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T11:00:00.000",
+      "room": "Lullwater",
+      "title": "Stress Test vs CT: Contemporary Risk Stratification"
+    },
+    {
+      "presentation_id": "f18cfdb0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Risk Stratification & Revascularization Options for Stable CAD",
+      "client_id": "905078",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:00:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Robert",
+          "last_name": "Safian",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T11:10:00.000",
+      "room": "Lullwater",
+      "title": "CT FFR is the Future"
+    },
+    {
+      "presentation_id": "f190f550-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Risk Stratification & Revascularization Options for Stable CAD",
+      "client_id": "945915",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:15:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Rasha",
+          "last_name": "Al-Lamee",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T11:25:00.000",
+      "room": "Lullwater",
+      "title": "PCI vs Medical Therapy for 1-2 Vessel CAD"
+    },
+    {
+      "presentation_id": "f1958930-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Risk Stratification & Revascularization Options for Stable CAD",
+      "client_id": "870835",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:25:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Gregg",
+          "last_name": "Stone",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T11:35:00.000",
+      "room": "Lullwater",
+      "title": "PCI for Left Main and 3 Vessel CAD"
+    },
+    {
+      "presentation_id": "f199f600-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Risk Stratification & Revascularization Options for Stable CAD",
+      "client_id": "905128",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T11:35:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Michael",
+          "last_name": "Halkos",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T11:45:00.000",
+      "room": "Lullwater",
+      "title": "Surgical Options and Innovations for Left Main and 3 Vessel CAD"
+    },
+    {
+      "presentation_id": "f19e62d0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Mitral",
+      "client_id": "905304",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T12:30:00.000",
+      "update": 1555692544,
+      "faculty": [
+        {
+          "first_name": "Elizabeth",
+          "last_name": "Perpetua",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T12:45:00.000",
+      "room": "Oak",
+      "title": "GDMT, COAPT, and TMVR"
+    },
+    {
+      "presentation_id": "f1a2f6b0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Mitral",
+      "client_id": "905339",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T12:45:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Kim",
+          "last_name": "Guibone",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T13:00:00.000",
+      "room": "Oak",
+      "title": "Pathway to Treatment Options for MR"
+    },
+    {
+      "presentation_id": "f1acbab0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Mitral",
+      "client_id": "905348",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T13:00:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Gabe",
+          "last_name": "Najarro",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T13:15:00.000",
+      "room": "Oak",
+      "title": "Developing Plan of Care for Mitral Procedures"
+    },
+    {
+      "presentation_id": "f1b0b250-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Mitral",
+      "client_id": "905351",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T13:15:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Marcus",
+          "last_name": "Burns",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T13:30:00.000",
+      "room": "Oak",
+      "title": "Interventional Heart Failure Therapies"
+    },
+    {
+      "presentation_id": "f1b51f20-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Mitral",
+      "client_id": "905354",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T13:30:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Edana",
+          "last_name": "Christy",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T13:40:00.000",
+      "room": "Oak",
+      "title": "APP Case Study #1"
+    },
+    {
+      "presentation_id": "f1b9b300-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Mitral",
+      "client_id": "905355",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T13:40:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Cassandra",
+          "last_name": "Ramm",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T13:50:00.000",
+      "room": "Oak",
+      "title": "APP Case Study #2"
+    },
+    {
+      "presentation_id": "f1be1fd0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations",
+      "client_id": "870861",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-02T12:30:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "William",
+          "last_name": "Fearon",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T14:00:00.000",
+      "room": "Lullwater",
+      "title": "Live Case Demonstration Coronary and Structural Interventions: Aortic Case Lampoon & CHIP /LV Support"
+    },
+    {
+      "presentation_id": "f1c2b3b0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Structural - More than Mitral and Aortic",
+      "client_id": "905357",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:15:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Russell",
+          "last_name": "Brandwein",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T14:30:00.000",
+      "room": "Oak",
+      "title": "Percutaneous Tricuspid Interventions"
+    },
+    {
+      "presentation_id": "f1c74790-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Structural - More than Mitral and Aortic",
+      "client_id": "905358",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:30:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Susan",
+          "last_name": "Schnell",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T14:45:00.000",
+      "room": "Oak",
+      "title": "PFO/ASD: Indications for Closure"
+    },
+    {
+      "presentation_id": "f1cb6640-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Structural - More than Mitral and Aortic",
+      "client_id": "905359",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:45:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Wendy",
+          "last_name": "Schell",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T15:00:00.000",
+      "room": "Oak",
+      "title": "LAAO: 5 Pearls of Wisdom for Left Atrial Appendage Closure"
+    },
+    {
+      "presentation_id": "f1d04840-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Structural - More than Mitral and Aortic",
+      "client_id": "905361",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T15:00:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "John",
+          "last_name": "Lisko",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T15:10:00.000",
+      "room": "Oak",
+      "title": "Case Study: Tricuspid"
+    },
+    {
+      "presentation_id": "f1d466f0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit: Structural - More than Mitral and Aortic",
+      "client_id": "905401",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T15:10:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Kelby",
+          "last_name": "Parsons",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T15:20:00.000",
+      "room": "Oak",
+      "title": "Case Study: Congenital"
+    },
+    {
+      "presentation_id": "f1d97000-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Imaging & Physiology",
+      "client_id": "968945",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:20:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "William",
+          "last_name": "Fearon",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T14:30:00.000",
+      "room": "Lullwater",
+      "title": "FFR Measured and Computed"
+    },
+    {
+      "presentation_id": "f1dd4090-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Imaging & Physiology",
+      "client_id": "870847",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:20:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Justin",
+          "last_name": "Davies",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T15:30:00.000",
+      "room": "Lullwater",
+      "title": "Imaging & Physiology"
+    },
+    {
+      "presentation_id": "f1e297c0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Imaging & Physiology",
+      "client_id": "905133",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:30:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Justin",
+          "last_name": "Davies",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T14:40:00.000",
+      "room": "Lullwater",
+      "title": "iFR and Resting Indices"
+    },
+    {
+      "presentation_id": "f1e779c0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Imaging & Physiology",
+      "client_id": "905131",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:40:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T14:50:00.000",
+      "room": "Lullwater",
+      "title": "Case Examples"
+    },
+    {
+      "presentation_id": "f1ec0da0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Imaging & Physiology",
+      "client_id": "905167",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:55:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Massoud",
+          "last_name": "Leesar",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T15:05:00.000",
+      "room": "Lullwater",
+      "title": "How IVUS imaging can be used to Optimize PCI "
+    },
+    {
+      "presentation_id": "f1f05360-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Imaging & Physiology",
+      "client_id": "905168",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T15:05:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Richard",
+          "last_name": "Shlofmitz",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T15:15:00.000",
+      "room": "Lullwater",
+      "title": "OCT to Illuminate PCI."
+    },
+    {
+      "presentation_id": "f1f47210-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Imaging & Physiology",
+      "client_id": "870868",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T15:15:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "James",
+          "last_name": "Goldstein",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T15:25:00.000",
+      "room": "Lullwater",
+      "title": "Plaque Characterization by CT Angiography "
+    },
+    {
+      "presentation_id": "f1f97b20-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Surgeon's Corner",
+      "client_id": "905130",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:20:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Kendra",
+          "last_name": "Grubb",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T15:30:00.000",
+      "room": "Emory",
+      "title": "Surgeon's Corner"
+    },
+    {
+      "presentation_id": "f1fe0f00-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Surgeon's Corner",
+      "client_id": "870867",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:20:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Brent",
+          "last_name": "Keeling",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T14:30:00.000",
+      "room": "Emory",
+      "title": "Surgical You Tube 2019: Complex Management of the Challenging Aortic Root- Techniques, Anatomy and Stentless Valve"
+    },
+    {
+      "presentation_id": "f20206a0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Surgeon's Corner",
+      "client_id": "870866",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:30:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Brad",
+          "last_name": "Leshnower",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T14:40:00.000",
+      "room": "Emory",
+      "title": "Surgical Voyeurism Part 2:  Contemporary Open and Endovascular Therapy for Ascending Aorta and Arch"
+    },
+    {
+      "presentation_id": "f2069a80-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Surgeon's Corner",
+      "client_id": "870865",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:40:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "James",
+          "last_name": "Davies",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T14:50:00.000",
+      "room": "Emory",
+      "title": "Step by Step: How do I do Surgical Mitral Valve Replacement for MAC"
+    },
+    {
+      "presentation_id": "f20b0750-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Surgeon's Corner",
+      "client_id": "870856",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T14:55:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Brent",
+          "last_name": "Keeling",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T15:05:00.000",
+      "room": "Emory",
+      "title": "Surgical Repair/Replacement of the Tricuspid Valve: Ebstein, FTR, and Endocarditis"
+    },
+    {
+      "presentation_id": "f20eb0d0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Surgeon's Corner",
+      "client_id": "870862",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T15:05:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Michael",
+          "last_name": "Rinaldi",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T15:15:00.000",
+      "room": "Emory",
+      "title": "PASCAL and MitraClip - How Do I Do It Step By Step, Tips & Tricks, Pearls & Pitfalls"
+    },
+    {
+      "presentation_id": "f212f690-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Surgeon's Corner",
+      "client_id": "905169",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-02T15:15:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Mohammad",
+          "last_name": "Sarraf",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T15:25:00.000",
+      "room": "Emory",
+      "title": "Tricuspid Clip: Step by Step"
+    },
+    {
+      "presentation_id": "f2173c50-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "APP Summit Roundtable: Role Exploration and Current Issues in Practice",
+      "client_id": "905403",
+      "track": "APP Symposium",
+      "directory_code": null,
+      "time_start": "2019-05-02T16:00:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Sarah",
+          "last_name": "Clarke",
+          "role": "Panelist"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T17:00:00.000",
+      "room": "Oak",
+      "title": "APP Roundtable: CNS"
+    },
+    {
+      "presentation_id": "f21ba920-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations",
+      "client_id": "870858",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-02T16:00:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Ravi",
+          "last_name": "Veeraswamy",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-02T17:00:00.000",
+      "room": "Lullwater",
+      "title": "Live Case Demonstrations of Coronary and Peripheral Interventions: Peripheral and PCI Imaging"
+    },
+    {
+      "presentation_id": "f21fc7d0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Reception: Cocktails & Cases",
+      "client_id": "870836",
+      "track": "Cocktails and Cases",
+      "directory_code": null,
+      "time_start": "2019-05-02T17:30:00.000",
+      "update": 1555692074,
+      "faculty": [
+        {
+          "first_name": "Andrew",
+          "last_name": "Morse",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T17:33:00.000",
+      "title": "Cocktails & Cases Presentation 1",
+      "room": "Garden Overlook"
+    },
+    {
+      "presentation_id": "f223e680-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Reception: Cocktails & Cases",
+      "client_id": "870795",
+      "track": "Cocktails and Cases",
+      "directory_code": null,
+      "time_start": "2019-05-02T17:30:00.000",
+      "update": 1555692074,
+      "faculty": [
+        {
+          "first_name": "John",
+          "last_name": "Douglas",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T18:30:00.000",
+      "title": "Reception: Cocktails & Cases",
+      "room": "Garden Overlook"
+    },
+    {
+      "presentation_id": "f22b1270-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Reception: Cocktails & Cases",
+      "client_id": "870817",
+      "track": "Cocktails and Cases",
+      "directory_code": null,
+      "time_start": "2019-05-02T17:40:00.000",
+      "update": 1555692074,
+      "faculty": [
+        {
+          "first_name": "Felipe",
+          "last_name": "Albuquerque",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T17:43:00.000",
+      "title": "Cocktails & Cases Presentation 2",
+      "room": "Garden Overlook"
+    },
+    {
+      "presentation_id": "f22fcd60-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Reception: Cocktails & Cases",
+      "client_id": "870815",
+      "track": "Cocktails and Cases",
+      "directory_code": null,
+      "time_start": "2019-05-02T17:50:00.000",
+      "update": 1555692074,
+      "faculty": [
+        {
+          "first_name": "Nayef",
+          "last_name": "Abouzaki",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T17:53:00.000",
+      "title": "Cocktails & Cases Presentation 3",
+      "room": "Garden Overlook"
+    },
+    {
+      "presentation_id": "f2341320-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Reception: Cocktails & Cases",
+      "client_id": "870814",
+      "track": "Cocktails and Cases",
+      "directory_code": null,
+      "time_start": "2019-05-02T18:00:00.000",
+      "update": 1555692074,
+      "faculty": [
+        {
+          "first_name": "Clay",
+          "last_name": "Chappell",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T18:03:00.000",
+      "title": "Cocktails and Cases Presentation 4",
+      "room": "Garden Overlook"
+    },
+    {
+      "presentation_id": "f23858e0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Reception: Cocktails & Cases",
+      "client_id": "870813",
+      "track": "Cocktails and Cases",
+      "directory_code": null,
+      "time_start": "2019-05-02T18:10:00.000",
+      "update": 1555692074,
+      "faculty": [
+        {
+          "first_name": "Van",
+          "last_name": "Crisco",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T18:13:00.000",
+      "title": "Cocktails and Cases: CTO Dynablator",
+      "room": "Garden Overlook"
+    },
+    {
+      "presentation_id": "f23b1800-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Reception: Cocktails & Cases",
+      "client_id": "905227",
+      "track": "Cocktails and Cases",
+      "directory_code": null,
+      "time_start": "2019-05-02T18:20:00.000",
+      "update": 1555692074,
+      "faculty": [
+        {
+          "first_name": "Farshad",
+          "last_name": "Forouzandeh",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-02T18:23:00.000",
+      "title": "Cases and Cocktails Presentation 6",
+      "room": "Garden Overlook"
+    },
+    {
+      "presentation_id": "f23f84d0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovations in Healthcare Delivery and Technology",
+      "client_id": "945944",
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2019-05-03T07:30:00.000",
+      "update": 1556408212,
+      "faculty": [
+        {
+          "first_name": "Spencer",
+          "last_name": "King",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T08:40:00.000",
+      "room": "Lullwater",
+      "title": "Innovations in Healthcare Delivery and Technology"
+    },
+    {
+      "presentation_id": "f243f1a0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovations in Healthcare Delivery and Technology",
+      "client_id": "870810",
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2019-05-03T07:30:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Habib",
+          "last_name": "Samady",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T07:40:00.000",
+      "room": "Lullwater",
+      "title": "Introductions"
+    },
+    {
+      "presentation_id": "f24a0c20-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovations in Healthcare Delivery and Technology",
+      "client_id": "870809",
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2019-05-03T07:40:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Peter",
+          "last_name": "Fitzgerald",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T07:55:00.000",
+      "room": "Lullwater",
+      "title": "Cardiovascular Innovations in the 21st Century"
+    },
+    {
+      "presentation_id": "f2513810-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovations in Healthcare Delivery and Technology",
+      "client_id": "973813",
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2019-05-03T07:55:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Peter",
+          "last_name": "Stone",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T08:05:00.000",
+      "room": "Lullwater",
+      "title": "Are we Ready to Predict who will have a Heart Attack and Where?"
+    },
+    {
+      "presentation_id": "f255cbf0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovations in Healthcare Delivery and Technology",
+      "client_id": "870808",
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2019-05-03T08:05:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "David",
+          "last_name": "Cox",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T08:15:00.000",
+      "room": "Lullwater",
+      "title": "SCAI's Mission is Central to Cardiovascular Care"
+    },
+    {
+      "presentation_id": "f25ad500-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovations in Healthcare Delivery and Technology",
+      "client_id": "945942",
+      "track": "General Session",
+      "directory_code": null,
+      "time_start": "2019-05-03T08:15:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Marc",
+          "last_name": "Jolicoeur",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T08:25:00.000",
+      "room": "Lullwater",
+      "title": "Alternative Approaches to Healthcare Delivery"
+    },
+    {
+      "presentation_id": "f25ef3b0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium Opening Session",
+      "client_id": "973715",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T07:30:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Patricia",
+          "last_name": "Keegan",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T07:40:00.000",
+      "room": "Oak",
+      "title": "Nurse & Tech Symposium: Welcome"
+    },
+    {
+      "presentation_id": "f2636080-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium Opening Session",
+      "client_id": "973716",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T07:40:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Mary",
+          "last_name": "Zellinger",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T08:25:00.000",
+      "room": "Oak",
+      "title": "CSU-ALS: Cardiac Surgery Advanced Life Support: Building Resiliency to Fight Burnout "
+    },
+    {
+      "presentation_id": "f2675820-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium Opening Session",
+      "client_id": "917175",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T08:25:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Joan",
+          "last_name": "Stultz",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T08:45:00.000",
+      "room": "Oak",
+      "title": "Pre-procedure Care Creates Post Procedure Success"
+    },
+    {
+      "presentation_id": "f26b9de0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "BASILICA",
+      "client_id": "915158",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T09:00:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Jaffar",
+          "last_name": "Khan",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T10:20:00.000",
+      "room": "Emory",
+      "title": "BASILICA "
+    },
+    {
+      "presentation_id": "f26fe3a0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "BASILICA",
+      "client_id": "915159",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T09:00:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Robert",
+          "last_name": "Lederman",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T09:30:00.000",
+      "room": "Emory",
+      "title": "How to Plan Your BASILICA Procedure"
+    },
+    {
+      "presentation_id": "f2722d90-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "BASILICA",
+      "client_id": "915164",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T09:40:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Adam",
+          "last_name": "Greenbaum",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T10:10:00.000",
+      "room": "Emory",
+      "title": "How to Perform Your BASILICA Procedure Step by Step"
+    },
+    {
+      "presentation_id": "f2775db0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations of Coronary Interventions",
+      "client_id": "870820",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-03T09:00:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Ajay",
+          "last_name": "Kirtane",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T10:20:00.000",
+      "room": "Lullwater",
+      "title": "Live Case Demonstrations of Coronary Interventions"
+    },
+    {
+      "presentation_id": "f27ba370-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations of Coronary Interventions",
+      "client_id": "966847",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-03T09:50:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Michael",
+          "last_name": "Ragosta",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T10:00:00.000",
+      "room": "Lullwater",
+      "title": "Evolution of Coronary Stents"
+    },
+    {
+      "presentation_id": "f28196e0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations of Coronary Interventions",
+      "client_id": "970739",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-03T10:00:00.000",
+      "update": 1555692573,
+      "faculty": [
+        {
+          "first_name": "Stephen",
+          "last_name": "Ellis",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T10:10:00.000",
+      "room": "Lullwater",
+      "title": "Coronary Revascularization in DM: Is CABG Always Better?"
+    },
+    {
+      "presentation_id": "f286ee10-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium Coronary Session",
+      "client_id": "917183",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T09:00:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Robert",
+          "last_name": "Wilson",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T09:15:00.000",
+      "room": "Oak",
+      "title": "Not all Chest Pain is Created Equal"
+    },
+    {
+      "presentation_id": "f28b81f0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium Coronary Session",
+      "client_id": "917187",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T09:15:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Laura",
+          "last_name": "Stubblefield",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T09:30:00.000",
+      "room": "Oak",
+      "title": "Proper Electrode Placement and Why it Matters"
+    },
+    {
+      "presentation_id": "f2903ce0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium Coronary Session",
+      "client_id": "917189",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T09:30:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Meryem",
+          "last_name": "Singh",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T09:45:00.000",
+      "room": "Oak",
+      "title": "The Importance of Bedside Shift Report"
+    },
+    {
+      "presentation_id": "f2959410-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium EP Session",
+      "client_id": "917190",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T09:45:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Adele",
+          "last_name": "Robbins",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T10:00:00.000",
+      "room": "Oak",
+      "title": "Anticoagulants: What Do I Need to Know?"
+    },
+    {
+      "presentation_id": "f29a9d20-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium EP Session",
+      "client_id": "917191",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T10:00:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Chinti",
+          "last_name": "Bali",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T10:30:00.000",
+      "room": "Oak",
+      "title": "Device Therapies Pre to Post Management"
+    },
+    {
+      "presentation_id": "f29ebbd0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "ACS: Mechanisms and Best Practices",
+      "client_id": "975798",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T10:40:00.000",
+      "update": 1556406773,
+      "faculty": [
+        {
+          "first_name": "H",
+          "last_name": "Anderson",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T12:00:00.000",
+      "room": "Lullwater",
+      "title": "ACS: Mechanisms and Best Practices"
+    },
+    {
+      "presentation_id": "f2a328a0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "ACS: Mechanisms and Best Practices",
+      "client_id": "870804",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T10:40:00.000",
+      "update": 1556406773,
+      "faculty": [
+        {
+          "first_name": "Angela",
+          "last_name": "Taylor",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T10:50:00.000",
+      "room": "Lullwater",
+      "title": "Distinguishing Type 1 from Type 2: Who Goes to the Cath Lab?"
+    },
+    {
+      "presentation_id": "f2a7e390-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "ACS: Mechanisms and Best Practices",
+      "client_id": "870803",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T10:50:00.000",
+      "update": 1556406773,
+      "faculty": [
+        {
+          "first_name": "Stephen",
+          "last_name": "Clements",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T11:00:00.000",
+      "room": "Lullwater",
+      "title": "Cath Lab Surprises in ACS Patients"
+    },
+    {
+      "presentation_id": "f2aa0670-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "ACS: Mechanisms and Best Practices",
+      "client_id": "870802",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T11:00:00.000",
+      "update": 1556406773,
+      "faculty": [
+        {
+          "first_name": "James",
+          "last_name": "Tcheng",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T11:10:00.000",
+      "room": "Lullwater",
+      "title": "Adjunctive Therapy for STEMI: What's New"
+    },
+    {
+      "presentation_id": "f2af5da0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "ACS: Mechanisms and Best Practices",
+      "client_id": "870800",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T11:15:00.000",
+      "update": 1556406773,
+      "faculty": [
+        {
+          "first_name": "Tracy",
+          "last_name": "Wang",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T11:25:00.000",
+      "room": "Lullwater",
+      "title": "Best Practices for STEMI Care"
+    },
+    {
+      "presentation_id": "f2b502f0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "ACS: Mechanisms and Best Practices",
+      "client_id": "870799",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T11:25:00.000",
+      "update": 1556406773,
+      "faculty": [
+        {
+          "first_name": "Spencer",
+          "last_name": "King",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T11:35:00.000",
+      "room": "Lullwater",
+      "title": "Revascularization in Patients with STEMI and MVD"
+    },
+    {
+      "presentation_id": "f2b948b0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "ACS: Mechanisms and Best Practices",
+      "client_id": "870798",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T11:35:00.000",
+      "update": 1556406774,
+      "faculty": [
+        {
+          "first_name": "Sheldon",
+          "last_name": "Goldberg",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T11:45:00.000",
+      "room": "Lullwater",
+      "title": "2 STEMI Conundrums"
+    },
+    {
+      "presentation_id": "f2bf3c20-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations of Structural Interventions (BASILICA)",
+      "client_id": "970744",
+      "track": "Structural Track Live Case",
+      "directory_code": null,
+      "time_start": "2019-05-03T10:40:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Robert",
+          "last_name": "Lederman",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T12:00:00.000",
+      "room": "Emory",
+      "title": "Live Case Demonstrations of Structural Interventions (BASILICA)"
+    },
+    {
+      "presentation_id": "f2c381e0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations of Structural Interventions (BASILICA)",
+      "client_id": "970745",
+      "track": "Structural Track Live Case",
+      "directory_code": null,
+      "time_start": "2019-05-03T11:00:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Jaffar",
+          "last_name": "Khan",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T11:10:00.000",
+      "room": "Emory",
+      "title": "How to Make a Flying \"V\" to Burn and IDE results"
+    },
+    {
+      "presentation_id": "f2c815c0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium Heart Failure Session",
+      "client_id": "917193",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T10:45:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Morgan",
+          "last_name": "Aldridge",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T11:00:00.000",
+      "room": "Oak",
+      "title": "What's New in the Treatment of Heart Failure: Synopsis of Current Studies"
+    },
+    {
+      "presentation_id": "f2cc5b80-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium Heart Failure Session",
+      "client_id": "917194",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T11:00:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Corby",
+          "last_name": "D'amico",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T11:15:00.000",
+      "room": "Oak",
+      "title": "Advanced Heart Failure Therapies"
+    },
+    {
+      "presentation_id": "f2d07a30-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium Structural Session",
+      "client_id": "917195",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T11:15:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Leslie",
+          "last_name": "Ogburn",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T11:30:00.000",
+      "room": "Oak",
+      "title": "Changing the Mindset: Who ISN'T Right for TAVR"
+    },
+    {
+      "presentation_id": "f2d50e10-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium Structural Session",
+      "client_id": "917196",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T11:30:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Thomas",
+          "last_name": "Brown",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T11:45:00.000",
+      "room": "Oak",
+      "title": "Transcatheter Valves: Not for Only Aortics Any Longer"
+    },
+    {
+      "presentation_id": "f2dc6110-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Nurse and Tech Symposium Structural Session",
+      "client_id": "917197",
+      "track": "Nursing Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T11:45:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Lauren",
+          "last_name": "Wheeler",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T12:00:00.000",
+      "room": "Oak",
+      "title": "Research: Bringing Ideas to Reality"
+    },
+    {
+      "presentation_id": "f2e0cde0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Congenital, Pulmonary & Your Brain",
+      "client_id": "916096",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T12:30:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "stamatios",
+          "last_name": "Lerakis",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:50:00.000",
+      "room": "Emory",
+      "title": "Congenital, Pulmonary & Your Brain"
+    },
+    {
+      "presentation_id": "f2e513a0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Congenital, Pulmonary & Your Brain",
+      "client_id": "916160",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T12:30:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Kanishaka",
+          "last_name": "Ratnayaka",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T12:40:00.000",
+      "room": "Emory",
+      "title": "MRI Catheterization: Why Aren't You Doing It?"
+    },
+    {
+      "presentation_id": "f2ea43c0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Congenital, Pulmonary & Your Brain",
+      "client_id": "916159",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T12:40:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Norihiko",
+          "last_name": "Kamioka",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T12:50:00.000",
+      "room": "Emory",
+      "title": "Single or Double Barrel Pulmonary Valve Replacement"
+    },
+    {
+      "presentation_id": "f2ee8980-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Congenital, Pulmonary & Your Brain",
+      "client_id": "916161",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T12:50:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Kanishaka",
+          "last_name": "Ratnayaka",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:00:00.000",
+      "room": "Emory",
+      "title": "Transcatheter Glenn Shunt and Other End-to-Site Anastomoses"
+    },
+    {
+      "presentation_id": "f2f2f650-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Congenital, Pulmonary & Your Brain",
+      "client_id": "916163",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T13:10:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Wissam",
+          "last_name": "Jaber",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:20:00.000",
+      "room": "Emory",
+      "title": "Cool Therapies for Acute Pulmonary Embolism"
+    },
+    {
+      "presentation_id": "f2f7d850-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Congenital, Pulmonary & Your Brain",
+      "client_id": "916165",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T13:20:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Riyaz",
+          "last_name": "Bashir",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:30:00.000",
+      "room": "Emory",
+      "title": "Interventional Therapies for CTEPH"
+    },
+    {
+      "presentation_id": "f2fc4520-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Congenital, Pulmonary & Your Brain",
+      "client_id": "971606",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T13:30:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Molly",
+          "last_name": "Szerlip",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:40:00.000",
+      "room": "Emory",
+      "title": "Primary Prevention for Your Brain: Sentinel & LAAO Devices"
+    },
+    {
+      "presentation_id": "f30063d0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations",
+      "client_id": "946088",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-03T12:30:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Emmanouil",
+          "last_name": "Brilakis",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:50:00.000",
+      "room": "Lullwater",
+      "title": "Live Case Demonstrations of Coronary Interventions"
+    },
+    {
+      "presentation_id": "f3040d50-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations",
+      "client_id": "971581",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-03T13:25:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Emmanouil",
+          "last_name": "Brilakis",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:35:00.000",
+      "room": "Lullwater",
+      "title": "CTO Techniques: Latest Updates "
+    },
+    {
+      "presentation_id": "f3085310-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations",
+      "client_id": "946065",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-03T13:35:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Ehtisham",
+          "last_name": "Mahumd",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:45:00.000",
+      "room": "Lullwater",
+      "title": "Robotic PCI is Ready for Primetime"
+    },
+    {
+      "presentation_id": "f30d0e00-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Acute Stroke Intervention",
+      "client_id": "870936",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T12:50:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Fadi",
+          "last_name": "Nahab",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:50:00.000",
+      "room": "Oak",
+      "title": "Acute Stroke Intervention"
+    },
+    {
+      "presentation_id": "f312b350-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Acute Stroke Intervention",
+      "client_id": "870933",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T12:50:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Diogo",
+          "last_name": "Haussen",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:00:00.000",
+      "room": "Oak",
+      "title": "Technique & Equipment Commonly Used in Acute Stroke for Endovascular Intervention"
+    },
+    {
+      "presentation_id": "f31858a0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Acute Stroke Intervention",
+      "client_id": "870932",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T13:10:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:20:00.000",
+      "room": "Oak",
+      "title": "Devices for Thrombus Aspiration in Acute Stroke"
+    },
+    {
+      "presentation_id": "f31c7750-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Acute Stroke Intervention",
+      "client_id": "946429",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T13:00:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Chandler",
+          "last_name": "Long",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:10:00.000",
+      "room": "Oak",
+      "title": "Timing for Carotid Repair After Acute Stroke"
+    },
+    {
+      "presentation_id": "f32db560-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Acute Stroke Intervention",
+      "client_id": "978937",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T13:20:00.000",
+      "update": 1555692545,
+      "faculty": [
+        {
+          "first_name": "Middleton",
+          "last_name": "Chang",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:30:00.000",
+      "room": "Oak",
+      "title": "Case in a Box"
+    },
+    {
+      "presentation_id": "f331ad00-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Acute Stroke Intervention",
+      "client_id": "916164",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T13:30:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "Nicolas",
+          "last_name": "Bianchi",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T13:40:00.000",
+      "room": "Oak",
+      "title": "Peripheral Case in a Box"
+    },
+    {
+      "presentation_id": "f335cbb0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations of Structural Interventions (Transcaval TAVR)",
+      "client_id": "946434",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:10:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "John",
+          "last_name": "Lisko",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T14:20:00.000",
+      "room": "Emory",
+      "title": "How to Plan Your Transcaval Procedure"
+    },
+    {
+      "presentation_id": "f33a5f90-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations of Structural Interventions (Transcaval TAVR)",
+      "client_id": "870821",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:10:00.000",
+      "update": 1555692600,
+      "faculty": [
+        {
+          "first_name": "Jaffar",
+          "last_name": "Khan",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T15:30:00.000",
+      "room": "Emory",
+      "title": "Live Case Demonstrations of Structural Interventions (Transcaval TAVR)"
+    },
+    {
+      "presentation_id": "f33f68a0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Live Case Demonstrations of Structural Interventions (Transcaval TAVR)",
+      "client_id": "870830",
+      "track": "Live Case Demonstrations",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:20:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Toby",
+          "last_name": "Rogers",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T14:30:00.000",
+      "room": "Emory",
+      "title": "How to Perform Your Transcaval Procedure- Step by Step"
+    },
+    {
+      "presentation_id": "f340ef40-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Percutaneous Techniques and Innovations",
+      "client_id": "870831",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:10:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Emmanouil",
+          "last_name": "Brilakis",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T15:30:00.000",
+      "room": "Lullwater",
+      "title": "Percutaneous Techniques and Innovations"
+    },
+    {
+      "presentation_id": "f345aa30-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Percutaneous Techniques and Innovations",
+      "client_id": "946433",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:10:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Amir",
+          "last_name": "Kaki",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T14:20:00.000",
+      "room": "Lullwater",
+      "title": "Vascular Access Options in 2019"
+    },
+    {
+      "presentation_id": "f349c8e0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Percutaneous Techniques and Innovations",
+      "client_id": "946431",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:20:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Yiannis",
+          "last_name": "Chatzizisis",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T14:30:00.000",
+      "room": "Lullwater",
+      "title": "Bifurcation PCI: Best Approaches and New Options"
+    },
+    {
+      "presentation_id": "f34e5cc0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Percutaneous Techniques and Innovations",
+      "client_id": "870828",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:30:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Emmanouil",
+          "last_name": "Brilakis",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T14:40:00.000",
+      "room": "Lullwater",
+      "title": "How to Develop a Thriving CTO Program"
+    },
+    {
+      "presentation_id": "f352c990-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Percutaneous Techniques and Innovations",
+      "client_id": "870826",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:50:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Ajay",
+          "last_name": "Kirtane",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T15:00:00.000",
+      "room": "Lullwater",
+      "title": "Atherectomy Techniques: Orbital, Rotational, and Laser"
+    },
+    {
+      "presentation_id": "f35847d0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Percutaneous Techniques and Innovations",
+      "client_id": "870825",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T15:00:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Gautam",
+          "last_name": "Kumar",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T15:10:00.000",
+      "room": "Lullwater",
+      "title": "Alternative Plaque Modification: Lithotripsy, Cutting and Scoring"
+    },
+    {
+      "presentation_id": "f35c6680-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Percutaneous Techniques and Innovations",
+      "client_id": "937437",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T15:10:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Barry",
+          "last_name": "Uretsky",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T15:20:00.000",
+      "room": "Lullwater",
+      "title": "Optimizaing PCI with Imaging and Physiology"
+    },
+    {
+      "presentation_id": "f3608530-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Peripheral Arterial Disease",
+      "client_id": "870972",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:10:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "Subhash",
+          "last_name": "Banerjee",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T14:20:00.000",
+      "room": "Oak",
+      "title": "Drug-Coated Balloon Controversy"
+    },
+    {
+      "presentation_id": "f36fee80-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Peripheral Arterial Disease",
+      "client_id": "870973",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:10:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "Yazan",
+          "last_name": "Duwayri",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T15:30:00.000",
+      "room": "Oak",
+      "title": "Peripheral Arterial Disease"
+    },
+    {
+      "presentation_id": "f373bf10-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Peripheral Arterial Disease",
+      "client_id": "870935",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:20:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "Enrique",
+          "last_name": "Flores",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T14:30:00.000",
+      "room": "Oak",
+      "title": "Are We Ready for Lower Extremity Interventions Via the Radial Artery?"
+    },
+    {
+      "presentation_id": "f378ef30-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Peripheral Arterial Disease",
+      "client_id": "975478",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:30:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "Gabriela",
+          "last_name": "Velazquez-Ramirez",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T14:40:00.000",
+      "room": "Oak",
+      "title": "Pedal Access in Lower Extremity Interventions"
+    },
+    {
+      "presentation_id": "f37daa20-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Peripheral Arterial Disease",
+      "client_id": "917173",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T14:50:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "Christopher",
+          "last_name": "White",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T15:00:00.000",
+      "room": "Oak",
+      "title": "AUC of PAD: Are They Appropriate?"
+    },
+    {
+      "presentation_id": "f381c8d0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Peripheral Arterial Disease",
+      "client_id": "917174",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T15:00:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T15:10:00.000",
+      "room": "Oak",
+      "title": "Peripheral Case in a Box"
+    },
+    {
+      "presentation_id": "f3860e90-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Peripheral Arterial Disease",
+      "client_id": "917176",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T15:10:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T15:20:00.000",
+      "room": "Oak",
+      "title": "Peripheral Case in a Box"
+    },
+    {
+      "presentation_id": "f38a5450-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Learn2Burn",
+      "client_id": "915868",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T15:50:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Vasilis",
+          "last_name": "Babaliaros",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T17:00:00.000",
+      "room": "Emory",
+      "title": "Learn2Burn"
+    },
+    {
+      "presentation_id": "f38e7300-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Learn2Burn",
+      "client_id": "971695",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T15:50:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Norihiko",
+          "last_name": "Kamioka",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:00:00.000",
+      "room": "Emory",
+      "title": "Step by Step- How I do Valve in MAC Transcatheter"
+    },
+    {
+      "presentation_id": "f390e400-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Learn2Burn",
+      "client_id": "915870",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T16:00:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Vasilis",
+          "last_name": "Babaliaros",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:20:00.000",
+      "room": "Emory",
+      "title": "ELASTIC and ELASTIC-Clip and T-LAMPOON: New Applications for Transcatheter Mitral Leaflet Modification"
+    },
+    {
+      "presentation_id": "f39502b0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Learn2Burn",
+      "client_id": "870943",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T16:30:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Toby",
+          "last_name": "Rogers",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:40:00.000",
+      "room": "Emory",
+      "title": "Extrinsic Compression for the Treatment of Mitral and Tricuspid Regurgitations:  Cerclage and Traipta."
+    },
+    {
+      "presentation_id": "f39db540-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Learn2Burn",
+      "client_id": "915871",
+      "track": "Structural Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T16:40:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Jaffar",
+          "last_name": "Khan",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:50:00.000",
+      "room": "Emory",
+      "title": "Step by Step: How do I do LAMPOON"
+    },
+    {
+      "presentation_id": "f3a33380-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Shock, Cardiac Arrest, and Vascular Access",
+      "client_id": "870819",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T15:50:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Pranav",
+          "last_name": "Loyalka",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:00:00.000",
+      "room": "Lullwater",
+      "title": "Mechanical Support for Shock: IABP, IMPELLA, Tandem Heart, Cardiohelp"
+    },
+    {
+      "presentation_id": "f3a77940-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Shock, Cardiac Arrest, and Vascular Access",
+      "client_id": "870897",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T15:50:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Tanveer",
+          "last_name": "Rab",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T17:00:00.000",
+      "room": "Lullwater",
+      "title": "Shock, Cardiac Arrest, and Vascular Access"
+    },
+    {
+      "presentation_id": "f3ac0d20-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Shock, Cardiac Arrest, and Vascular Access",
+      "client_id": "870863",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T16:00:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Tanveer",
+          "last_name": "Rab",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:10:00.000",
+      "room": "Lullwater",
+      "title": "STEMI and Shock: Care Pathways"
+    },
+    {
+      "presentation_id": "f3b004c0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Shock, Cardiac Arrest, and Vascular Access",
+      "client_id": "915864",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T16:10:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:20:00.000",
+      "room": "Lullwater",
+      "title": "STEMI and Shock: Case Presentation"
+    },
+    {
+      "presentation_id": "f3b44a80-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Shock, Cardiac Arrest, and Vascular Access",
+      "client_id": "915866",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T16:30:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Karl",
+          "last_name": "Kern",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:40:00.000",
+      "room": "Lullwater",
+      "title": "Cardiac Arrest: Who to Cool and Who to Take to the Lab"
+    },
+    {
+      "presentation_id": "f3b86930-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Shock, Cardiac Arrest, and Vascular Access",
+      "client_id": "870946",
+      "track": "Coronary Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T16:40:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "H",
+          "last_name": "Anderson",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:50:00.000",
+      "room": "Lullwater",
+      "title": "Cardiogenic Shock in ACS:  Insights from Large Registries"
+    },
+    {
+      "presentation_id": "f3bc87e0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Venous Thromboembolic Disease",
+      "client_id": "975482",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T15:50:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "Wissam",
+          "last_name": "Jaber",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:00:00.000",
+      "room": "Oak",
+      "title": "Endovascular Treatment of Acute Pulmonary Embolism"
+    },
+    {
+      "presentation_id": "f3c0cda0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Venous Thromboembolic Disease",
+      "client_id": "917178",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T15:50:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "William",
+          "last_name": "Jordan",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T17:00:00.000",
+      "room": "Oak",
+      "title": "Venous Thromboembolic Disease"
+    },
+    {
+      "presentation_id": "f3c58890-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Venous Thromboembolic Disease",
+      "client_id": "917181",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T16:00:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "Riyaz",
+          "last_name": "Bashir",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:10:00.000",
+      "room": "Oak",
+      "title": "Endovascular Approach for Chronic Thromboembolic Pulmonary Hypertension"
+    },
+    {
+      "presentation_id": "f3ca6a90-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Venous Thromboembolic Disease",
+      "client_id": "917182",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T16:10:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "Allie",
+          "last_name": "Parham",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:20:00.000",
+      "room": "Oak",
+      "title": "Role of Iliac Vein Stenting for Leg Swelling"
+    },
+    {
+      "presentation_id": "f3ce6230-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Venous Thromboembolic Disease",
+      "client_id": "917185",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T16:30:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "Jean Marie",
+          "last_name": "Ruddy",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:40:00.000",
+      "room": "Oak",
+      "title": "IVC Filter: Putting Them in and Pulling Them Out"
+    },
+    {
+      "presentation_id": "f3d280e0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Venous Thromboembolic Disease",
+      "client_id": "917186",
+      "track": "Peripheral Track",
+      "directory_code": null,
+      "time_start": "2019-05-03T16:40:00.000",
+      "update": 1555692546,
+      "faculty": [
+        {
+          "first_name": "Jaime",
+          "last_name": "Benarroch-Gampel",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-03T16:50:00.000",
+      "room": "Oak",
+      "title": "Interventional Management of Lower Extremity DVT"
+    },
+    {
+      "presentation_id": "f3d6c6a0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovation and Healthcare Delivery: A Town Hall Meeting",
+      "client_id": "971731",
+      "track": "Non-CME: CMO's Corner",
+      "directory_code": null,
+      "time_start": "2019-05-03T17:15:00.000",
+      "update": 1555692077,
+      "faculty": [
+        {
+          "first_name": "Kendra",
+          "last_name": "Grubb",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-03T18:15:00.000",
+      "title": "Innovation and Healthcare Delivery: A Town Hall Meeting",
+      "room": "Hickory Room"
+    },
+    {
+      "presentation_id": "f3da9730-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-Prevention",
+      "client_id": "870873",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T07:30:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Arshed",
+          "last_name": "Quyyumi",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:50:00.000",
+      "room": "Emory",
+      "title": "CCU-Prevention"
+    },
+    {
+      "presentation_id": "f3df0400-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-Prevention",
+      "client_id": "975644",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T07:30:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Jefferson",
+          "last_name": "Baer",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T07:40:00.000",
+      "room": "Emory",
+      "title": "The New Hypertension Guidelines"
+    },
+    {
+      "presentation_id": "f3e3bef0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-Prevention",
+      "client_id": "870872",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T07:40:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Laurence",
+          "last_name": "Sperling",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T07:50:00.000",
+      "room": "Emory",
+      "title": "Lessons from 2018 Cholesterol Guidelines"
+    },
+    {
+      "presentation_id": "f3e8c800-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-Prevention",
+      "client_id": "870882",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T07:50:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:00:00.000",
+      "room": "Emory",
+      "title": "Role of Calcium Score for Guiding Therapy"
+    },
+    {
+      "presentation_id": "f3ec9890-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-Prevention",
+      "client_id": "975651",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T08:00:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Anurag",
+          "last_name": "Mehta",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:10:00.000",
+      "room": "Emory",
+      "title": "CCU Prevention: Case Presentation "
+    },
+    {
+      "presentation_id": "f3f15380-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-Prevention",
+      "client_id": "955664",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T08:10:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Arshed",
+          "last_name": "Quyyumi",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:20:00.000",
+      "room": "Emory",
+      "title": "Risk Stratification for Patients with CAD"
+    },
+    {
+      "presentation_id": "f3f60e70-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-Prevention",
+      "client_id": "955667",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T08:20:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Nehal",
+          "last_name": "Mehta",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:30:00.000",
+      "room": "Emory",
+      "title": "Immunity and Inflammation in the Development of Cardiovascular Disease"
+    },
+    {
+      "presentation_id": "f3fa2d20-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-Prevention",
+      "client_id": "953501",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T08:30:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Dhinsda",
+          "last_name": "Davinder",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:40:00.000",
+      "room": "Emory",
+      "title": "CCU Prevention: Case Presentation "
+    },
+    {
+      "presentation_id": "f402dfb0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #1 (Worst Complications, Best Save)",
+      "client_id": "870970",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T07:30:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Ted",
+          "last_name": "Bass",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T09:00:00.000",
+      "room": "Lullwater",
+      "title": "Most EPIC Cases of 2019 Part 1: Battle for the Lazarus Prize Among the SEC (Worst Complications, Best Save)"
+    },
+    {
+      "presentation_id": "f404db80-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #1 (Worst Complications, Best Save)",
+      "client_id": "870969",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T07:30:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T07:35:00.000",
+      "room": "Lullwater",
+      "title": "UF Health Gainesville: Case Presentation"
+    },
+    {
+      "presentation_id": "f408d320-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #1 (Worst Complications, Best Save)",
+      "client_id": "975705",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T07:40:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Adnan",
+          "last_name": "Chhatriwalla",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T07:45:00.000",
+      "room": "Lullwater",
+      "title": "Mid America: Case Presentation"
+    },
+    {
+      "presentation_id": "f40d6700-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #1 (Worst Complications, Best Save)",
+      "client_id": "870965",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T07:50:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Joseph",
+          "last_name": "Babb",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T07:55:00.000",
+      "room": "Lullwater",
+      "title": "East Carolina: Case Presentation"
+    },
+    {
+      "presentation_id": "f4113790-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #1 (Worst Complications, Best Save)",
+      "client_id": "870963",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T08:00:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Emilio",
+          "last_name": "Garcia",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:05:00.000",
+      "room": "Lullwater",
+      "title": "UF Health Jacksonville: Case Presentation"
+    },
+    {
+      "presentation_id": "f415f280-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #1 (Worst Complications, Best Save)",
+      "client_id": "870961",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T08:10:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:15:00.000",
+      "room": "Lullwater",
+      "title": "UNC: Case Presentation"
+    },
+    {
+      "presentation_id": "f41a1130-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #1 (Worst Complications, Best Save)",
+      "client_id": "870959",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T08:20:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Sachin",
+          "last_name": "Kumar",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:25:00.000",
+      "room": "Lullwater",
+      "title": "UT Houston: Case Presentation"
+    },
+    {
+      "presentation_id": "f41f1a40-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #1 (Worst Complications, Best Save)",
+      "client_id": "870957",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T08:30:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:35:00.000",
+      "room": "Lullwater",
+      "title": "Ochsner: Case Presentation"
+    },
+    {
+      "presentation_id": "f42338f0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #1 (Worst Complications, Best Save)",
+      "client_id": "870955",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T08:40:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Navin",
+          "last_name": "Nanda",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:45:00.000",
+      "room": "Lullwater",
+      "title": "UAB: Case Presentation"
+    },
+    {
+      "presentation_id": "f42757a0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #1 (Worst Complications, Best Save)",
+      "client_id": "870953",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T08:50:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Mehmet",
+          "last_name": "Cilingiroglu",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T08:55:00.000",
+      "room": "Lullwater",
+      "title": "University of Arkansas: Case Presentation "
+    },
+    {
+      "presentation_id": "f42b7650-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-New Treatments for CAD",
+      "client_id": "870927",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:00:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Peter",
+          "last_name": "Wilson",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T10:30:00.000",
+      "room": "Emory",
+      "title": "New Treatments for CAD"
+    },
+    {
+      "presentation_id": "f42f6df0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-New Treatments for CAD",
+      "client_id": "870926",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:00:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Daniel",
+          "last_name": "Eapen",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T09:10:00.000",
+      "room": "Emory",
+      "title": "Why and When to use PCSK9 Inhibitors?"
+    },
+    {
+      "presentation_id": "f433b3b0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-New Treatments for CAD",
+      "client_id": "870924",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:10:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Ijeoma",
+          "last_name": "Isiadinso",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T09:20:00.000",
+      "room": "Emory",
+      "title": "Omega-3s, Vitamin D"
+    },
+    {
+      "presentation_id": "f4382080-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-New Treatments for CAD",
+      "client_id": "955663",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:30:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Peter",
+          "last_name": "Wilson",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T09:40:00.000",
+      "room": "Emory",
+      "title": "Is Diabetes a CAD Equivalent?"
+    },
+    {
+      "presentation_id": "f43c6640-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-New Treatments for CAD",
+      "client_id": "975785",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:40:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Francisco",
+          "last_name": "Pasquel",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T09:50:00.000",
+      "room": "Emory",
+      "title": "Diabetes Drugs to Treat CAD"
+    },
+    {
+      "presentation_id": "f4405de0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-New Treatments for CAD",
+      "client_id": "975795",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:50:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T10:05:00.000",
+      "room": "Emory",
+      "title": "CCU Case Presentation"
+    },
+    {
+      "presentation_id": "f445dc20-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU-New Treatments for CAD",
+      "client_id": "977849",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T10:05:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T10:20:00.000",
+      "room": "Emory",
+      "title": "CCU Case Presentation"
+    },
+    {
+      "presentation_id": "f44a7000-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #2 (Worst Complications, Best Save)",
+      "client_id": "946438",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:15:00.000",
+      "update": 1555692574,
+      "faculty": [
+        {
+          "first_name": "Michael",
+          "last_name": "Rinaldi",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T10:15:00.000",
+      "room": "Lullwater",
+      "title": "Most EPIC Cases of 2019 Part 2: Battle for the Lazarus Prize Among the SEC (Worst Complications, Best Save)"
+    },
+    {
+      "presentation_id": "f44f03e0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #2 (Worst Complications, Best Save)",
+      "client_id": "870949",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:15:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "Joseph",
+          "last_name": "Fredi",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T09:20:00.000",
+      "room": "Lullwater",
+      "title": "Vanderbilt: Case Presentation"
+    },
+    {
+      "presentation_id": "f452fb80-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #2 (Worst Complications, Best Save)",
+      "client_id": "870914",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:25:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "Eric",
+          "last_name": "Powers",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T09:30:00.000",
+      "room": "Lullwater",
+      "title": "MUSC: Case Presentation"
+    },
+    {
+      "presentation_id": "f457b670-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #2 (Worst Complications, Best Save)",
+      "client_id": "870930",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:35:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "Michael",
+          "last_name": "Ragosta",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T09:40:00.000",
+      "room": "Lullwater",
+      "title": "University of Virginia: Case Presentation"
+    },
+    {
+      "presentation_id": "f45bd520-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #2 (Worst Complications, Best Save)",
+      "client_id": "870895",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:45:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T09:50:00.000",
+      "room": "Lullwater",
+      "title": "UT Southwestern: Case Presentation"
+    },
+    {
+      "presentation_id": "f460b720-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #2 (Worst Complications, Best Save)",
+      "client_id": "870893",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T09:55:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "Michael",
+          "last_name": "Kutcher",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T10:00:00.000",
+      "room": "Lullwater",
+      "title": "Wake Forest: Case Presentation"
+    },
+    {
+      "presentation_id": "f464fce0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #2 (Worst Complications, Best Save)",
+      "client_id": "870891",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T10:05:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "Andrew",
+          "last_name": "Leventhal",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T10:10:00.000",
+      "room": "Lullwater",
+      "title": "University of Kentucky: Case Presentation"
+    },
+    {
+      "presentation_id": "f46aa230-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovation Summit",
+      "client_id": "975817",
+      "track": "Innovation Summit",
+      "directory_code": null,
+      "time_start": "2019-05-04T10:30:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Jaydev",
+          "last_name": "Desai",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T12:00:00.000",
+      "room": "Emory",
+      "title": "Innovation Summit"
+    },
+    {
+      "presentation_id": "f46ec0e0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovation Summit",
+      "client_id": "870919",
+      "track": "Innovation Summit",
+      "directory_code": null,
+      "time_start": "2019-05-04T10:30:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Jaydev",
+          "last_name": "Desai",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T10:40:00.000",
+      "room": "Emory",
+      "title": "Micro-to-Meso Scale Robotics for Endovascular  Interventions."
+    },
+    {
+      "presentation_id": "f4732db0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovation Summit",
+      "client_id": "946440",
+      "track": "Innovation Summit",
+      "directory_code": null,
+      "time_start": "2019-05-04T10:40:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Brooks",
+          "last_name": "Lindsey",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T10:50:00.000",
+      "room": "Emory",
+      "title": "Functional Intravascular Ultrasound Imaging for Interventional Guidance"
+    },
+    {
+      "presentation_id": "f476fe40-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovation Summit",
+      "client_id": "870917",
+      "track": "Innovation Summit",
+      "directory_code": null,
+      "time_start": "2019-05-04T10:50:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Khusrow",
+          "last_name": "Niazi",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T11:00:00.000",
+      "room": "Emory",
+      "title": "The Need for Engineers and Clinicians to Innovate Together"
+    },
+    {
+      "presentation_id": "f47bb930-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovation Summit",
+      "client_id": "870918",
+      "track": "Innovation Summit",
+      "directory_code": null,
+      "time_start": "2019-05-04T11:10:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Adam",
+          "last_name": "Greenbaum",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T11:20:00.000",
+      "room": "Emory",
+      "title": "Innovations and Structural Heart Disease"
+    },
+    {
+      "presentation_id": "f47fd7e0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovation Summit",
+      "client_id": "957182",
+      "track": "Innovation Summit",
+      "directory_code": null,
+      "time_start": "2019-05-04T11:20:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Joo Myung",
+          "last_name": "Lee",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T11:30:00.000",
+      "room": "Emory",
+      "title": "Innovations in Coronary Physiology and PCI"
+    },
+    {
+      "presentation_id": "f4841da0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovation Summit",
+      "client_id": "946441",
+      "track": "Innovation Summit",
+      "directory_code": null,
+      "time_start": "2019-05-04T11:30:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Szilard",
+          "last_name": "Voros",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T11:40:00.000",
+      "room": "Emory",
+      "title": "Biological Big Data:  How it Changes Diagnostics and Theraputics  in Cardiovascular and Cardio-Metabolic Diseases"
+    },
+    {
+      "presentation_id": "f4886360-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Innovation Summit",
+      "client_id": "975806",
+      "track": "Innovation Summit",
+      "directory_code": null,
+      "time_start": "2019-05-04T11:40:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Partho",
+          "last_name": "Sengupta",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T11:50:00.000",
+      "room": "Emory",
+      "title": "Machine Learning and Artificial Intelligence in Cardiovascular Medicine"
+    },
+    {
+      "presentation_id": "f48d4560-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #3 (Worst Complications, Best Save)",
+      "client_id": "946439",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T10:30:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "Adam",
+          "last_name": "Greenbaum",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T12:00:00.000",
+      "room": "Lullwater",
+      "title": "Most EPIC Cases of 2019 Part 3:  Battle for the Lazarus Prize Among the SEC (Worst Complications, Best Save)"
+    },
+    {
+      "presentation_id": "f4920050-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #3 (Worst Complications, Best Save)",
+      "client_id": "870887",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T10:30:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "S",
+          "last_name": "Ahmed",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T10:35:00.000",
+      "room": "Lullwater",
+      "title": "UT San Antonio: Case Presentation"
+    },
+    {
+      "presentation_id": "f4964610-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #3 (Worst Complications, Best Save)",
+      "client_id": "870885",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T10:40:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "Vasilis",
+          "last_name": "Babaliaros",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T10:45:00.000",
+      "room": "Lullwater",
+      "title": "Emory: Case Presentation"
+    },
+    {
+      "presentation_id": "f49b7630-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #3 (Worst Complications, Best Save)",
+      "client_id": "870883",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T10:50:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "Ajar",
+          "last_name": "Kochar",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T10:55:00.000",
+      "room": "Lullwater",
+      "title": "Duke: Case Presentation"
+    },
+    {
+      "presentation_id": "f49fbbf0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #3 (Worst Complications, Best Save)",
+      "client_id": "870881",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T11:00:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T11:05:00.000",
+      "room": "Lullwater",
+      "title": "VCU: Case Presentation"
+    },
+    {
+      "presentation_id": "f4a428c0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #3 (Worst Complications, Best Save)",
+      "client_id": "870879",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T11:10:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "Fadi",
+          "last_name": "Matar",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T11:15:00.000",
+      "room": "Lullwater",
+      "title": "USF: Case Presentation"
+    },
+    {
+      "presentation_id": "f4a84770-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #3 (Worst Complications, Best Save)",
+      "client_id": "870877",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T11:20:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "To Be",
+          "last_name": "Announced",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T11:25:00.000",
+      "room": "Lullwater",
+      "title": "NHLBI: Case Presentation"
+    },
+    {
+      "presentation_id": "f4ae13d0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #3 (Worst Complications, Best Save)",
+      "client_id": "870875",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T11:30:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "Adam",
+          "last_name": "Greenbaum",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T11:50:00.000",
+      "room": "Lullwater",
+      "title": "Moderator Deliberation"
+    },
+    {
+      "presentation_id": "f4b2f5d0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "Lazarus Battle #3 (Worst Complications, Best Save)",
+      "client_id": "870874",
+      "track": "Lazarus Battle",
+      "directory_code": null,
+      "time_start": "2019-05-04T11:50:00.000",
+      "update": 1555692575,
+      "faculty": [
+        {
+          "first_name": "Habib",
+          "last_name": "Samady",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T12:00:00.000",
+      "room": "Lullwater",
+      "title": "Winner Announcement"
+    },
+    {
+      "presentation_id": "f4b71480-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU Cardiovascular Health Disparities",
+      "client_id": "975824",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T12:30:00.000",
+      "update": 1555692601,
+      "faculty": [
+        {
+          "first_name": "Nanette",
+          "last_name": "Wenger",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T13:05:00.000",
+      "room": "Emory",
+      "title": "CCU Cardiovascular Health Disparities"
+    },
+    {
+      "presentation_id": "f4bc6bb0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU Cardiovascular Health Disparities",
+      "client_id": "870906",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T12:30:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "C Noel",
+          "last_name": "Bairey Merz",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T12:45:00.000",
+      "room": "Emory",
+      "title": "Women and Heart Disease, Microvascular  Syndromes"
+    },
+    {
+      "presentation_id": "f4c06350-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU Cardiovascular Health Disparities",
+      "client_id": "870905",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T12:45:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "Herman",
+          "last_name": "Taylor",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T12:55:00.000",
+      "room": "Emory",
+      "title": "African Americans and Cardiovascular Disease:  Risk and Resilience"
+    },
+    {
+      "presentation_id": "f4c4d020-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU Arrhythmias",
+      "client_id": "975833",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T13:05:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "Neil",
+          "last_name": "Sanghvi",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T14:00:00.000",
+      "room": "Emory",
+      "title": "CCU Arrhythmias"
+    },
+    {
+      "presentation_id": "f4c93cf0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU Arrhythmias",
+      "client_id": "975834",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T13:05:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "Jerrold",
+          "last_name": "Levy",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": false,
+      "time_end": "2019-05-04T13:15:00.000",
+      "room": "Emory",
+      "title": "What's New With DOAC's for AFIB"
+    },
+    {
+      "presentation_id": "f4cd5ba0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU Arrhythmias",
+      "client_id": "975835",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T13:15:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "Adam",
+          "last_name": "Greenbaum",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T13:25:00.000",
+      "room": "Emory",
+      "title": "Left Atrial Appendage Closure"
+    },
+    {
+      "presentation_id": "f4d17a50-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU Arrhythmias",
+      "client_id": "975836",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T13:25:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "Mikhael",
+          "last_name": "El-Chami",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T13:35:00.000",
+      "room": "Emory",
+      "title": "Updates on AFIB Ablation"
+    },
+    {
+      "presentation_id": "f4d571f0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU Arrhythmias",
+      "client_id": "975837",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T13:35:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "Faisal",
+          "last_name": "Merchant",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T13:45:00.000",
+      "room": "Emory",
+      "title": "Are Leadless Pacemakers Ready for Primetime?"
+    },
+    {
+      "presentation_id": "f4d9dec0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "CCU Arrhythmias",
+      "client_id": "975838",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T13:45:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "David",
+          "last_name": "De Lurgio",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T13:55:00.000",
+      "room": "Emory",
+      "title": "CCU Arrhythmias: Case Discussion "
+    },
+    {
+      "presentation_id": "f4de4b90-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "EPIC-SEC CCU",
+      "client_id": "870907",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T14:30:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "Alanna",
+          "last_name": "Morris",
+          "role": "Moderator"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T16:00:00.000",
+      "room": "Emory",
+      "title": "EPIC-SEC CCU"
+    },
+    {
+      "presentation_id": "f4e158d0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "EPIC-SEC CCU",
+      "client_id": "975842",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T14:30:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "Barry",
+          "last_name": "Maron",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T14:45:00.000",
+      "room": "Emory",
+      "title": "Hypertrophic Cardiomyopathy "
+    },
+    {
+      "presentation_id": "f4e59e90-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "EPIC-SEC CCU",
+      "client_id": "975845",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T14:45:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "John",
+          "last_name": "Douglas",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T14:55:00.000",
+      "room": "Emory",
+      "title": "Alcohol Ablation in Obstructive HCM"
+    },
+    {
+      "presentation_id": "f4eaceb0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "EPIC-SEC CCU",
+      "client_id": "975850",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T15:05:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "Kunal",
+          "last_name": "Bhatt",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T15:15:00.000",
+      "room": "Emory",
+      "title": "Amyloidosis: New Management Strategies"
+    },
+    {
+      "presentation_id": "f4effed0-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "EPIC-SEC CCU",
+      "client_id": "975853",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T15:15:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "Alanna",
+          "last_name": "Morris",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T15:25:00.000",
+      "room": "Emory",
+      "title": "Heart Failure with Preserved EF: Updates"
+    },
+    {
+      "presentation_id": "f4f44490-62c1-11e9-abfa-274a9ee34d5a",
+      "session": "EPIC-SEC CCU",
+      "client_id": "977851",
+      "track": "Cardiology Clinic Update",
+      "directory_code": null,
+      "time_start": "2019-05-04T15:15:00.000",
+      "update": 1555692602,
+      "faculty": [
+        {
+          "first_name": "Andrew",
+          "last_name": "Smith",
+          "role": "Presenter"
+        }
+      ],
+      "do_not_archive": false,
+      "deleted": false,
+      "event_id": "EPICSEC-2019",
+      "cme": true,
+      "time_end": "2019-05-04T15:25:00.000",
+      "room": "Emory",
+      "title": "Heart Failure with Preserved EF: Updates"
+    }
+  ],
+  "Count": 210,
+  "ScannedCount": 210
+}
