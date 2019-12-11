@@ -21,7 +21,7 @@ const Home = () => <div>
         <li><Link to="/app/epic-fellows-corner">Fellow's Corner</Link></li>
         <li><Link to="/app/epic-general-session">General Session</Link></li>
         <li><Link to="/app/epic-innovation-summit">Innovation Summit</Link></li>
-        <li><Link to="/app/epic-lazarus-battle">Innovation Summit</Link></li>
+        <li><Link to="/app/epic-lazarus-battle">Lazarus Battle</Link></li>
         <li><Link to="/app/epic-live-cases">Live Cases</Link></li>
         <li><Link to="/app/epic-nursing">Nursing</Link></li>
         <li><Link to="/app/epic-peripheral">Peripheral</Link></li>
